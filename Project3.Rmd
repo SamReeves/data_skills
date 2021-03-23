@@ -24,51 +24,54 @@ library(stopwords)
 library(kableExtra)
 ```
 
-## Getting the data
+## Getting the skills data
 Run function to collect results and construct query strings, build a DF of 100 results.
 
 ```{r dataset}
 
-# Pull first 10 results
-base_url = "https://www.googleapis.com/customsearch/v1?key=AIzaSyDGGlvHG0qLpOjLF5_k-ojZtPKjyFOSUYM&cx=1f1bbcd0558947d90&q='data+scientist+skills'"
-base_results <- fromJSON(txt=base_url)
+# See if we've already downloaded the skills; if so, just load the csv
+if (file.exists("search_results.csv")) {
 
-# Create data frame, discarding the 11th column, which we don't need and is problematic
-# because it's a nested list.
-base_df <- base_results$items[, -11]
+  # Load from csv
+  base_df <- read.csv("search_results.csv")
 
-# Create a query base to iterate on
-query_base <- "https://www.googleapis.com/customsearch/v1?key=AIzaSyDGGlvHG0qLpOjLF5_k-ojZtPKjyFOSUYM&cx=1f1bbcd0558947d90&exactTerms='data+science'&q='data+scientist+skills'&start=" 
+} else {
+  # Pull first 10 results
+  base_url = "https://www.googleapis.com/customsearch/v1?key=AIzaSyDGGlvHG0qLpOjLF5_k-ojZtPKjyFOSUYM&cx=1f1bbcd0558947d90&q='data+scientist+skills'"
+  base_results <- fromJSON(txt=base_url)
+  
+  # Create data frame, discarding the 11th column, which we don't need and is problematic
+  # because it's a nested list.
+  base_df <- base_results$items[, -11]
+  
+  # Create a query base to iterate on
+  query_base <- "https://www.googleapis.com/customsearch/v1?key=AIzaSyDGGlvHG0qLpOjLF5_k-ojZtPKjyFOSUYM&cx=1f1bbcd0558947d90&exactTerms='data+science'&q='data+scientist+skills'&start=" 
+  
+  # Created a search results function that inputs query string 
+  # and outputs results that can be bound to base_df
+  get_search_results <- function(q_string) {
+    results <- fromJSON(txt = q_string)
+    items_df <- results$items[, -11]
+    return(items_df)
+  }
+  
+  # Run a for loop to generate the needed queries for the next 90 results.
+  x <- c(1:9)
+  for (i in x) {
+    query <- paste(query_base, (i * 10 + 1), sep="")
+    items_df <- get_search_results(query)
+    base_df <- rbind(base_df, items_df)
+  }
 
-# Created a search results function that inputs query string 
-# and outputs results that can be bound to base_df
-get_search_results <- function(q_string) {
-  results <- fromJSON(txt = q_string)
-  items_df <- results$items[, -11]
-  return(items_df)
+  # In case of rate limiting, write to CSV
+  write.csv(base_df,'search_results.csv',row.names = TRUE)
 }
-
-# Run a for loop to generate the needed queries for the next 90 results.
-x <- c(1:9)
-for (i in x) {
-  query <- paste(query_base, (i * 10 + 1), sep="")
-  items_df <- get_search_results(query)
-  base_df <- rbind(base_df, items_df)
-}
-
-# In case of rate limiting, write to CSV
-write.csv(base_df,'search_results.csv',row.names = TRUE)
 
 ```
 
-## Create corpus
+## Create stopword list
 
-Combine result snippets into a corpus, and count word frequency.
-
-```{r corpus}
-
-# Create lowercase corpus of skills
-skills_corpus_lower <- tolower(paste(base_df$snippet, collapse = ""))
+```{r stopwords}
 
 # Tokenize snippets
 # https://cran.r-project.org/web/packages/tokenizers/vignettes/introduction-to-tokenizers.html
@@ -84,6 +87,17 @@ stopwordlist <- append(stopwordlist, c("2020", "2021", "2019", "2018", "2017", t
 
 # Remove other miscellaneous words
 stopwordlist <- append(stopwordlist, c("15,000", "11000"))
+
+```
+
+## Create skills corpus
+
+Combine result snippets into a corpus.
+
+```{r corpus}
+
+# Create lowercase corpus of skills
+skills_corpus_lower <- tolower(paste(base_df$snippet, collapse = ""))
 
 # Remove stop words from the corpus
 for (stopword in stopwordlist) {
@@ -152,6 +166,14 @@ if (file.exists("cuny.csv")) {
   # write to CSV
   write.csv(dfcuny,'cuny.csv',row.names = TRUE)
 }
+
+```
+
+## CUNY corpus
+
+Combine result snippets into a corpus.
+
+```{r cuny_corpus}
 
 # Create cuny corpus
 cuny_corpus_lower <- tolower(paste(dfcuny$course_text, collapse = ""))
