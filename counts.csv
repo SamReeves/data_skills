@@ -1,0 +1,3259 @@
+"","token","skills_count","cuny_count","pct_skills_snippets","pct_cuny_courses"
+"1","multivariate",1,0,0.01,0
+"2","multivariate calculus",1,0,0.01,0
+"3","multivariate calculus linear",1,0,0.01,0
+"4","calculus",2,2,0.02,0.105263157894737
+"5","calculus linear",1,0,0.01,0
+"6","calculus linear algebra",1,0,0.01,0
+"7","linear",2,4,0.02,0.210526315789474
+"8","linear algebra",1,0,0.01,0
+"9","linear algebra machine",1,0,0.01,0
+"10","algebra",1,1,0.01,0.0526315789473684
+"11","algebra machine",1,0,0.01,0
+"12","algebra machine learning",1,0,0.01,0
+"13","machine",12,4,0.12,0.210526315789474
+"14","machine learning",12,4,0.12,0.210526315789474
+"15","machine learning invariably",1,0,0.01,0
+"16","learning",14,5,0.14,0.263157894736842
+"17","learning invariably",1,0,0.01,0
+"18","learning invariably data",1,0,0.01,0
+"19","invariably",1,0,0.01,0
+"20","invariably data",1,0,0.01,0
+"21","invariably data science",1,0,0.01,0
+"22","data",161,43,1.61,2.26315789473684
+"23","data science",56,2,0.56,0.105263157894737
+"24","data science models",1,0,0.01,0
+"25","science",57,3,0.57,0.157894736842105
+"26","science models",1,0,0.01,0
+"27","science models built",1,0,0.01,0
+"28","models",4,3,0.04,0.157894736842105
+"29","models built",1,0,0.01,0
+"30","models built several",1,0,0.01,0
+"31","built",1,0,0.01,0
+"32","built several",1,0,0.01,0
+"33","built several predictors",1,0,0.01,0
+"34","several",1,1,0.01,0.0526315789473684
+"35","several predictors",1,0,0.01,0
+"36","several predictors unknown",1,0,0.01,0
+"37","predictors",1,0,0.01,0
+"38","predictors unknown",1,0,0.01,0
+"39","predictors unknown data",1,0,0.01,0
+"40","unknown",1,0,0.01,0
+"41","unknown data",1,0,0.01,0
+"42","unknown data scientists",1,0,0.01,0
+"43","data scientists",29,0,0.29,0
+"44","data scientists expected",1,0,0.01,0
+"45","scientists",30,0,0.3,0
+"46","scientists expected",1,0,0.01,0
+"47","scientists expected know",1,0,0.01,0
+"48","expected",2,2,0.02,0.105263157894737
+"49","expected know",1,0,0.01,0
+"50","expected know lot",1,0,0.01,0
+"51","know",7,0,0.07,0
+"52","know lot",1,0,0.01,0
+"53","know lot machine",1,0,0.01,0
+"54","lot",1,0,0.01,0
+"55","lot machine",1,0,0.01,0
+"56","lot machine learning",1,0,0.01,0
+"57","machine learning computer",1,0,0.01,0
+"58","learning computer",1,0,0.01,0
+"59","learning computer science",1,0,0.01,0
+"60","computer",3,3,0.03,0.157894736842105
+"61","computer science",1,0,0.01,0
+"62","computer science statistics",1,0,0.01,0
+"63","science statistics",1,0,0.01,0
+"64","science statistics mathematics",1,0,0.01,0
+"65","statistics",8,3,0.08,0.157894736842105
+"66","statistics mathematics",2,0,0.02,0
+"67","statistics mathematics data",1,0,0.01,0
+"68","mathematics",5,1,0.05,0.0526315789473684
+"69","mathematics data",1,0,0.01,0
+"70","mathematics data visualization",1,0,0.01,0
+"71","data visualization",2,0,0.02,0
+"72","data visualization communication",1,0,0.01,0
+"73","visualization",3,1,0.03,0.0526315789473684
+"74","visualization communication",1,0,0.01,0
+"75","visualization communication depth",1,0,0.01,0
+"76","communication",9,0,0.09,0
+"77","communication depth",1,0,0.01,0
+"78","communication depth analysis",1,0,0.01,0
+"79","depth",1,1,0.01,0.0526315789473684
+"80","depth analysis",1,0,0.01,0
+"81","depth analysis demand",1,0,0.01,0
+"82","analysis",6,3,0.06,0.157894736842105
+"83","analysis demand",1,0,0.01,0
+"84","analysis demand skills",1,0,0.01,0
+"85","demand",3,0,0.03,0
+"86","demand skills",2,0,0.02,0
+"87","demand skills webscraping",1,0,0.01,0
+"88","skills",81,2,0.81,0.105263157894737
+"89","skills webscraping",1,0,0.01,0
+"90","skills webscraping data",1,0,0.01,0
+"91","webscraping",2,0,0.02,0
+"92","webscraping data",1,0,0.01,0
+"93","webscraping data scientist",1,0,0.01,0
+"94","data scientist",42,0,0.42,0
+"95","data scientist job",3,0,0.03,0
+"96","scientist",42,0,0.42,0
+"97","scientist job",3,0,0.03,0
+"98","scientist job postings",1,0,0.01,0
+"99","job",17,0,0.17,0
+"100","job postings",3,0,0.03,0
+"101","job postings introduction",1,0,0.01,0
+"102","postings",3,0,0.03,0
+"103","postings introduction",1,0,0.01,0
+"104","postings introduction just",1,0,0.01,0
+"105","introduction",1,0,0.01,0
+"106","introduction just",1,0,0.01,0
+"107","introduction just wanted",1,0,0.01,0
+"108","just",6,0,0.06,0
+"109","just wanted",1,0,0.01,0
+"110","just wanted start",1,0,0.01,0
+"111","wanted",3,0,0.03,0
+"112","wanted start",1,0,0.01,0
+"113","wanted start saying",1,0,0.01,0
+"114","start",3,0,0.03,0
+"115","start saying",1,0,0.01,0
+"116","start saying just",1,0,0.01,0
+"117","saying",1,0,0.01,0
+"118","saying just",1,0,0.01,0
+"119","saying just needed",1,0,0.01,0
+"120","just needed",1,0,0.01,0
+"121","just needed practical",1,0,0.01,0
+"122","needed",2,0,0.02,0
+"123","needed practical",1,0,0.01,0
+"124","needed practical skills",1,0,0.01,0
+"125","practical",1,1,0.01,0.0526315789473684
+"126","practical skills",1,0,0.01,0
+"127","practical skills story",1,0,0.01,0
+"128","skills story",1,0,0.01,0
+"129","skills story describe",1,0,0.01,0
+"130","story",1,0,0.01,0
+"131","story describe",1,0,0.01,0
+"132","story describe different",1,0,0.01,0
+"133","describe",1,0,0.01,0
+"134","describe different",1,0,0.01,0
+"135","describe different courses",1,0,0.01,0
+"136","different",7,3,0.07,0.157894736842105
+"137","different courses",1,0,0.01,0
+"138","different courses took",1,0,0.01,0
+"139","courses",3,0,0.03,0
+"140","courses took",1,0,0.01,0
+"141","courses took led",1,0,0.01,0
+"142","took",1,0,0.01,0
+"143","took led",1,0,0.01,0
+"144","took led data",1,0,0.01,0
+"145","led",1,0,0.01,0
+"146","led data",1,0,0.01,0
+"147","led data science",1,0,0.01,0
+"148","data science job",3,0,0.03,0
+"149","science job",3,0,0.03,0
+"150","science job healthcare",1,0,0.01,0
+"151","job healthcare",1,0,0.01,0
+"152","job healthcare startup",1,0,0.01,0
+"153","healthcare",1,0,0.01,0
+"154","healthcare startup",1,0,0.01,0
+"155","healthcare startup silicone",1,0,0.01,0
+"156","startup",1,0,0.01,0
+"157","startup silicone",1,0,0.01,0
+"158","startup silicone essential",1,0,0.01,0
+"159","silicone",1,0,0.01,0
+"160","silicone essential",1,0,0.01,0
+"161","silicone essential skills",1,0,0.01,0
+"162","essential",5,1,0.05,0.0526315789473684
+"163","essential skills",2,0,0.02,0
+"164","essential skills need",1,0,0.01,0
+"165","skills need",6,0,0.06,0
+"166","skills need know",1,0,0.01,0
+"167","need",13,0,0.13,0
+"168","need know",2,0,0.02,0
+"169","need know start",1,0,0.01,0
+"170","know start",1,0,0.01,0
+"171","know start data",1,0,0.01,0
+"172","start data",1,0,0.01,0
+"173","start data science",1,0,0.01,0
+"174","data science mathematics",1,0,0.01,0
+"175","science mathematics",1,0,0.01,0
+"176","science mathematics statistics",1,0,0.01,0
+"177","mathematics statistics",2,0,0.02,0
+"178","mathematics statistics skills",1,0,0.01,0
+"179","statistics skills",1,0,0.01,0
+"180","statistics skills essential",1,0,0.01,0
+"181","skills essential",1,0,0.01,0
+"182","skills essential programming",1,0,0.01,0
+"183","essential programming",1,0,0.01,0
+"184","essential programming skills",1,0,0.01,0
+"185","programming",11,8,0.11,0.421052631578947
+"186","programming skills",3,0,0.03,0
+"187","programming skills data",1,0,0.01,0
+"188","skills data",12,0,0.12,0
+"189","skills data wrangling",1,0,0.01,0
+"190","data wrangling",1,1,0.01,0.0526315789473684
+"191","data wrangling fall",1,0,0.01,0
+"192","wrangling",1,1,0.01,0.0526315789473684
+"193","wrangling fall",1,0,0.01,0
+"194","wrangling fall analyzed",1,0,0.01,0
+"195","fall",1,0,0.01,0
+"196","fall analyzed",1,0,0.01,0
+"197","fall analyzed demand",1,0,0.01,0
+"198","analyzed",1,0,0.01,0
+"199","analyzed demand",1,0,0.01,0
+"200","analyzed demand skills",1,0,0.01,0
+"201","demand skills technologies",1,0,0.01,0
+"202","skills technologies",1,0,0.01,0
+"203","skills technologies data",1,0,0.01,0
+"204","technologies",2,0,0.02,0
+"205","technologies data",1,0,0.01,0
+"206","technologies data scientists",1,0,0.01,0
+"207","data scientists article",1,0,0.01,0
+"208","scientists article",1,0,0.01,0
+"209","scientists article resonated",1,0,0.01,0
+"210","article",8,0,0.08,0
+"211","article resonated",1,0,0.01,0
+"212","article resonated folks",1,0,0.01,0
+"213","resonated",1,0,0.01,0
+"214","resonated folks",1,0,0.01,0
+"215","resonated folks sql",1,0,0.01,0
+"216","folks",2,0,0.02,0
+"217","folks sql",1,0,0.01,0
+"218","folks sql sql",1,0,0.01,0
+"219","sql",9,0,0.09,0
+"220","sql sql",1,0,0.01,0
+"221","sql sql universal",1,0,0.01,0
+"222","sql universal",1,0,0.01,0
+"223","sql universal language",1,0,0.01,0
+"224","universal",1,0,0.01,0
+"225","universal language",1,0,0.01,0
+"226","universal language world",1,0,0.01,0
+"227","language",4,2,0.04,0.105263157894737
+"228","language world",1,0,0.01,0
+"229","language world data",1,0,0.01,0
+"230","world",2,3,0.02,0.157894736842105
+"231","world data",2,0,0.02,0
+"232","world data data",1,0,0.01,0
+"233","data data",2,0,0.02,0
+"234","data data visualizations",1,0,0.01,0
+"235","data visualizations",2,0,0.02,0
+"236","data visualizations storytelling",1,0,0.01,0
+"237","visualizations",3,3,0.03,0.157894736842105
+"238","visualizations storytelling",1,0,0.01,0
+"239","visualizations storytelling think",1,0,0.01,0
+"240","storytelling",1,0,0.01,0
+"241","storytelling think",1,0,0.01,0
+"242","storytelling think creating",1,0,0.01,0
+"243","think",2,0,0.02,0
+"244","think creating",1,0,0.01,0
+"245","think creating data",1,0,0.01,0
+"246","creating",1,0,0.01,0
+"247","creating data",1,0,0.01,0
+"248","creating data visualizations",1,0,0.01,0
+"249","data visualizations skills",1,0,0.01,0
+"250","visualizations skills",1,0,0.01,0
+"251","visualizations skills based",1,0,0.01,0
+"252","skills based",2,0,0.02,0
+"253","skills based specialization",2,0,0.02,0
+"254","based",3,2,0.03,0.105263157894737
+"255","based specialization",2,0,0.02,0
+"256","based specialization intended",2,0,0.02,0
+"257","specialization",2,0,0.02,0
+"258","specialization intended",2,0,0.02,0
+"259","specialization intended learners",2,0,0.02,0
+"260","intended",2,0,0.02,0
+"261","intended learners",2,0,0.02,0
+"262","intended learners basic",2,0,0.02,0
+"263","learners",2,0,0.02,0
+"264","learners basic",2,0,0.02,0
+"265","learners basic python",1,0,0.01,0
+"266","basic",2,8,0.02,0.421052631578947
+"267","basic python",1,0,0.01,0
+"268","basic python programming",1,0,0.01,0
+"269","python",13,1,0.13,0.0526315789473684
+"270","python programming",2,0,0.02,0
+"271","python programming background",1,0,0.01,0
+"272","programming background",1,0,0.01,0
+"273","programming background want",1,0,0.01,0
+"274","background",2,1,0.02,0.0526315789473684
+"275","background want",1,0,0.01,0
+"276","background want apply",1,0,0.01,0
+"277","want",4,0,0.04,0
+"278","want apply",1,0,0.01,0
+"279","want apply statistical",1,0,0.01,0
+"280","apply",1,3,0.01,0.157894736842105
+"281","apply statistical",1,0,0.01,0
+"282","apply statistical junior",1,0,0.01,0
+"283","statistical",5,5,0.05,0.263157894736842
+"284","statistical junior",1,0,0.01,0
+"285","statistical junior data",1,0,0.01,0
+"286","junior",2,0,0.02,0
+"287","junior data",2,0,0.02,0
+"288","junior data scientists",2,0,0.02,0
+"289","data scientists good",2,0,0.02,0
+"290","scientists good",2,0,0.02,0
+"291","scientists good statistical",2,0,0.02,0
+"292","good",4,0,0.04,0
+"293","good statistical",2,0,0.02,0
+"294","good statistical skills",2,0,0.02,0
+"295","statistical skills",2,0,0.02,0
+"296","statistical skills senior",2,0,0.02,0
+"297","skills senior",3,0,0.03,0
+"298","skills senior data",3,0,0.03,0
+"299","senior",4,0,0.04,0
+"300","senior data",4,0,0.04,0
+"301","senior data scientists",2,0,0.02,0
+"302","data scientists excel",2,0,0.02,0
+"303","scientists excel",2,0,0.02,0
+"304","scientists excel putting",2,0,0.02,0
+"305","excel",2,0,0.02,0
+"306","excel putting",2,0,0.02,0
+"307","excel putting models",2,0,0.02,0
+"308","putting",2,0,0.02,0
+"309","putting models",2,0,0.02,0
+"310","putting models production",2,0,0.02,0
+"311","models production",2,0,0.02,0
+"312","models production principal",2,0,0.02,0
+"313","production",2,0,0.02,0
+"314","production principal",2,0,0.02,0
+"315","production principal data",2,0,0.02,0
+"316","principal",2,0,0.02,0
+"317","principal data",2,0,0.02,0
+"318","principal data scientists",2,0,0.02,0
+"319","data scientists know",3,0,0.03,0
+"320","scientists know",3,0,0.03,0
+"321","scientists know create",2,0,0.02,0
+"322","know create",2,0,0.02,0
+"323","know create structured",1,0,0.01,0
+"324","create",2,2,0.02,0.105263157894737
+"325","create structured",1,0,0.01,0
+"326","create structured query",1,0,0.01,0
+"327","structured",1,1,0.01,0.0526315789473684
+"328","structured query",1,0,0.01,0
+"329","structured query language",1,0,0.01,0
+"330","query",2,0,0.02,0
+"331","query language",1,0,0.01,0
+"332","query language sql",1,0,0.01,0
+"333","language sql",1,0,0.01,0
+"334","language sql programming",1,0,0.01,0
+"335","sql programming",1,0,0.01,0
+"336","sql programming language",1,0,0.01,0
+"337","programming language",1,0,0.01,0
+"338","programming language handles",1,0,0.01,0
+"339","language handles",1,0,0.01,0
+"340","language handles data",1,0,0.01,0
+"341","handles",1,0,0.01,0
+"342","handles data",1,0,0.01,0
+"343","handles data query",1,0,0.01,0
+"344","data query",1,0,0.01,0
+"345","data query data",1,0,0.01,0
+"346","query data",1,0,0.01,0
+"347","query data management",1,0,0.01,0
+"348","data management",1,0,0.01,0
+"349","data management relational",1,0,0.01,0
+"350","management",1,2,0.01,0.105263157894737
+"351","management relational",1,0,0.01,0
+"352","management relational database",1,0,0.01,0
+"353","relational",2,0,0.02,0
+"354","relational database",2,0,0.02,0
+"355","relational database social",1,0,0.01,0
+"356","database",3,1,0.03,0.0526315789473684
+"357","database social",1,0,0.01,0
+"358","database social media",1,0,0.01,0
+"359","social",1,10,0.01,0.526315789473684
+"360","social media",1,0,0.01,0
+"361","social media kick",1,0,0.01,0
+"362","media",1,0,0.01,0
+"363","media kick",1,0,0.01,0
+"364","media kick wanted",1,0,0.01,0
+"365","kick",1,0,0.01,0
+"366","kick wanted",1,0,0.01,0
+"367","kick wanted share",1,0,0.01,0
+"368","wanted share",1,0,0.01,0
+"369","wanted share seven",1,0,0.01,0
+"370","share",1,0,0.01,0
+"371","share seven",1,0,0.01,0
+"372","share seven recommended",1,0,0.01,0
+"373","seven",1,0,0.01,0
+"374","seven recommended",1,0,0.01,0
+"375","seven recommended data",1,0,0.01,0
+"376","recommended",1,0,0.01,0
+"377","recommended data",1,0,0.01,0
+"378","recommended data science",1,0,0.01,0
+"379","data science skills",5,0,0.05,0
+"380","science skills",5,0,0.05,0
+"381","science skills dozens",1,0,0.01,0
+"382","skills dozens",1,0,0.01,0
+"383","skills dozens interactions",1,0,0.01,0
+"384","dozens",1,0,0.01,0
+"385","dozens interactions",1,0,0.01,0
+"386","dozens interactions discussions",1,0,0.01,0
+"387","interactions",1,1,0.01,0.0526315789473684
+"388","interactions discussions",1,0,0.01,0
+"389","interactions discussions top",1,0,0.01,0
+"390","discussions",2,1,0.02,0.0526315789473684
+"391","discussions top",1,0,0.01,0
+"392","discussions top skills",1,0,0.01,0
+"393","top",5,0,0.05,0
+"394","top skills",3,0,0.03,0
+"395","top skills demand",1,0,0.01,0
+"396","skills demand",1,0,0.01,0
+"397","skills demand statistics",1,0,0.01,0
+"398","demand statistics",1,0,0.01,0
+"399","demand statistics knowledge",1,0,0.01,0
+"400","statistics knowledge",1,0,0.01,0
+"401","statistics knowledge sets",1,0,0.01,0
+"402","knowledge",3,8,0.03,0.421052631578947
+"403","knowledge sets",1,0,0.01,0
+"404","knowledge sets solid",1,0,0.01,0
+"405","sets",6,9,0.06,0.473684210526316
+"406","sets solid",1,0,0.01,0
+"407","sets solid foundations",1,0,0.01,0
+"408","solid",1,0,0.01,0
+"409","solid foundations",1,0,0.01,0
+"410","solid foundations data",1,0,0.01,0
+"411","foundations",2,0,0.02,0
+"412","foundations data",2,0,0.02,0
+"413","foundations data scientists",1,0,0.01,0
+"414","data scientists job",2,0,0.02,0
+"415","scientists job",2,0,0.02,0
+"416","scientists job postings",1,0,0.01,0
+"417","job postings required",1,0,0.01,0
+"418","postings required",1,0,0.01,0
+"419","postings required research",1,0,0.01,0
+"420","required",6,2,0.06,0.105263157894737
+"421","required research",1,0,0.01,0
+"422","required research also",1,0,0.01,0
+"423","research",2,3,0.02,0.157894736842105
+"424","research also",1,0,0.01,0
+"425","research also considered",1,0,0.01,0
+"426","also",7,3,0.07,0.157894736842105
+"427","also considered",1,0,0.01,0
+"428","also considered vital",1,0,0.01,0
+"429","considered",1,0,0.01,0
+"430","considered vital",1,0,0.01,0
+"431","considered vital skill",1,0,0.01,0
+"432","vital",2,0,0.02,0
+"433","vital skill",1,0,0.01,0
+"434","vital skill python",1,0,0.01,0
+"435","skill",16,0,0.16,0
+"436","skill python",1,0,0.01,0
+"437","skill python main",1,0,0.01,0
+"438","python main",2,0,0.02,0
+"439","python main language",1,0,0.01,0
+"440","main",4,0,0.04,0
+"441","main language",1,0,0.01,0
+"442","main language used",1,0,0.01,0
+"443","language used",1,0,0.01,0
+"444","language used data",1,0,0.01,0
+"445","used",3,3,0.03,0.157894736842105
+"446","used data",2,0,0.02,0
+"447","used data science",2,0,0.02,0
+"448","data science machine",1,0,0.01,0
+"449","science machine",1,0,0.01,0
+"450","science machine learning",1,0,0.01,0
+"451","machine learning s",0,0,0,0
+"452","learning s",0,0,0,0
+"453","learning s use",0,0,0,0
+"454","s",9,1,0.09,0.0526315789473684
+"455","s use",1,0,0.01,0
+"456","s use people",1,0,0.01,0
+"457","use",3,12,0.03,0.631578947368421
+"458","use people",1,0,0.01,0
+"459","use people also",1,0,0.01,0
+"460","people",4,0,0.04,0
+"461","people also",1,0,0.01,0
+"462","people also using",1,0,0.01,0
+"463","also using",1,0,0.01,0
+"464","also using r",1,0,0.01,0
+"465","using",1,5,0.01,0.263157894736842
+"466","using r",1,1,0.01,0.0526315789473684
+"467","using r education",1,0,0.01,0
+"468","r",7,1,0.07,0.0526315789473684
+"469","r education",1,0,0.01,0
+"470","r education r",1,0,0.01,0
+"471","education",1,0,0.01,0
+"472","education r",1,0,0.01,0
+"473","education r programming",1,0,0.01,0
+"474","r programming",1,0,0.01,0
+"475","r programming python",1,0,0.01,0
+"476","programming python",1,0,0.01,0
+"477","programming python coding",1,0,0.01,0
+"478","python coding",1,0,0.01,0
+"479","python coding hadoop",1,0,0.01,0
+"480","coding",3,0,0.03,0
+"481","coding hadoop",1,0,0.01,0
+"482","coding hadoop platform",1,0,0.01,0
+"483","hadoop",2,3,0.02,0.157894736842105
+"484","hadoop platform",1,0,0.01,0
+"485","hadoop platform sql",1,0,0.01,0
+"486","platform",1,0,0.01,0
+"487","platform sql",1,0,0.01,0
+"488","platform sql database",1,0,0.01,0
+"489","sql database",1,0,0.01,0
+"490","sql database coding",1,0,0.01,0
+"491","database coding",1,0,0.01,0
+"492","database coding apache",1,0,0.01,0
+"493","coding apache",1,0,0.01,0
+"494","coding apache spark",1,0,0.01,0
+"495","apache",1,1,0.01,0.0526315789473684
+"496","apache spark",1,1,0.01,0.0526315789473684
+"497","apache spark machine",1,0,0.01,0
+"498","spark",1,1,0.01,0.0526315789473684
+"499","spark machine",1,0,0.01,0
+"500","spark machine learning",1,0,0.01,0
+"501","machine learning ai",1,0,0.01,0
+"502","learning ai",1,0,0.01,0
+"503","learning ai data",1,0,0.01,0
+"504","ai",2,0,0.02,0
+"505","ai data",1,0,0.01,0
+"506","ai data examples",1,0,0.01,0
+"507","data examples",1,0,0.01,0
+"508","data examples data",1,0,0.01,0
+"509","examples",1,2,0.01,0.105263157894737
+"510","examples data",1,0,0.01,0
+"511","examples data scientist",1,0,0.01,0
+"512","data scientist skills",2,0,0.02,0
+"513","scientist skills",2,0,0.02,0
+"514","scientist skills technical",1,0,0.01,0
+"515","skills technical",2,0,0.02,0
+"516","skills technical skills",1,0,0.01,0
+"517","technical",9,0,0.09,0
+"518","technical skills",4,0,0.04,0
+"519","technical skills mathematical",1,0,0.01,0
+"520","skills mathematical",1,0,0.01,0
+"521","skills mathematical skills",1,0,0.01,0
+"522","mathematical",1,2,0.01,0.105263157894737
+"523","mathematical skills",1,0,0.01,0
+"524","mathematical skills communication",1,0,0.01,0
+"525","skills communication",2,0,0.02,0
+"526","skills communication skills",1,0,0.01,0
+"527","communication skills",7,0,0.07,0
+"528","communication skills data",2,0,0.02,0
+"529","skills data visualization",1,0,0.01,0
+"530","data visualization skills",1,0,0.01,0
+"531","visualization skills",1,0,0.01,0
+"532","visualization skills teamwork",1,0,0.01,0
+"533","skills teamwork",1,0,0.01,0
+"534","skills teamwork skills",1,0,0.01,0
+"535","teamwork",1,1,0.01,0.0526315789473684
+"536","teamwork skills",1,0,0.01,0
+"537","teamwork skills junior",1,0,0.01,0
+"538","skills junior",1,0,0.01,0
+"539","skills junior data",1,0,0.01,0
+"540","know create want",1,0,0.01,0
+"541","create want",1,0,0.01,0
+"542","create want read",1,0,0.01,0
+"543","want read",1,0,0.01,0
+"544","want read data",1,0,0.01,0
+"545","read",2,0,0.02,0
+"546","read data",1,0,0.01,0
+"547","read data science",1,0,0.01,0
+"548","data science engineering",1,0,0.01,0
+"549","science engineering",1,0,0.01,0
+"550","science engineering article",1,0,0.01,0
+"551","engineering",5,0,0.05,0
+"552","engineering article",1,0,0.01,0
+"553","engineering article follow",1,0,0.01,0
+"554","article follow",1,0,0.01,0
+"555","article follow also",1,0,0.01,0
+"556","follow",1,0,0.01,0
+"557","follow also",1,0,0.01,0
+"558","follow also data",1,0,0.01,0
+"559","also data",1,0,0.01,0
+"560","also data scientists",1,0,0.01,0
+"561","data scientists must",1,0,0.01,0
+"562","scientists must",1,0,0.01,0
+"563","scientists must good",1,0,0.01,0
+"564","must",3,0,0.03,0
+"565","must good",1,0,0.01,0
+"566","must good communication",1,0,0.01,0
+"567","good communication",1,0,0.01,0
+"568","good communication skills",1,0,0.01,0
+"569","communication skills present",1,0,0.01,0
+"570","skills present",1,0,0.01,0
+"571","skills present data",1,0,0.01,0
+"572","present",1,0,0.01,0
+"573","present data",1,0,0.01,0
+"574","present data propose",1,0,0.01,0
+"575","data propose",1,0,0.01,0
+"576","data propose say",1,0,0.01,0
+"577","propose",1,0,0.01,0
+"578","propose say",1,0,0.01,0
+"579","propose say apart",1,0,0.01,0
+"580","say",1,0,0.01,0
+"581","say apart",1,0,0.01,0
+"582","say apart able",1,0,0.01,0
+"583","apart",1,0,0.01,0
+"584","apart able",1,0,0.01,0
+"585","apart able code",1,0,0.01,0
+"586","able",2,0,0.02,0
+"587","able code",1,0,0.01,0
+"588","able code data",1,0,0.01,0
+"589","code",1,0,0.01,0
+"590","code data",1,0,0.01,0
+"591","code data scientist",1,0,0.01,0
+"592","data scientist must",2,0,0.02,0
+"593","scientist must",2,0,0.02,0
+"594","scientist must also",1,0,0.01,0
+"595","must also",1,0,0.01,0
+"596","must also strong",1,0,0.01,0
+"597","also strong",1,0,0.01,0
+"598","also strong knowledge",1,0,0.01,0
+"599","strong",3,0,0.03,0
+"600","strong knowledge",1,0,0.01,0
+"601","strong knowledge sql",1,0,0.01,0
+"602","knowledge sql",1,0,0.01,0
+"603","knowledge sql derive",1,0,0.01,0
+"604","sql derive",1,0,0.01,0
+"605","sql derive necessary",1,0,0.01,0
+"606","derive",1,0,0.01,0
+"607","derive necessary",1,0,0.01,0
+"608","derive necessary meaningful",1,0,0.01,0
+"609","necessary",3,0,0.03,0
+"610","necessary meaningful",1,0,0.01,0
+"611","necessary meaningful now",1,0,0.01,0
+"612","meaningful",1,0,0.01,0
+"613","meaningful now",1,0,0.01,0
+"614","meaningful now data",1,0,0.01,0
+"615","now",1,0,0.01,0
+"616","now data",1,0,0.01,0
+"617","now data science",1,0,0.01,0
+"618","data science field",2,1,0.02,0.0526315789473684
+"619","science field",2,1,0.02,0.0526315789473684
+"620","science field changing",1,0,0.01,0
+"621","field",6,3,0.06,0.157894736842105
+"622","field changing",1,0,0.01,0
+"623","field changing rapidly",1,0,0.01,0
+"624","changing",2,0,0.02,0
+"625","changing rapidly",1,0,0.01,0
+"626","changing rapidly skills",1,0,0.01,0
+"627","rapidly",1,0,0.01,0
+"628","rapidly skills",1,0,0.01,0
+"629","rapidly skills based",1,0,0.01,0
+"630","learners basic feature",1,0,0.01,0
+"631","basic feature",1,0,0.01,0
+"632","basic feature selection",1,0,0.01,0
+"633","feature",1,0,0.01,0
+"634","feature selection",1,0,0.01,0
+"635","feature selection algorithms",1,0,0.01,0
+"636","selection",1,0,0.01,0
+"637","selection algorithms",1,0,0.01,0
+"638","selection algorithms every",1,0,0.01,0
+"639","algorithms",1,4,0.01,0.210526315789474
+"640","algorithms every",1,0,0.01,0
+"641","algorithms every data",1,0,0.01,0
+"642","every",3,0,0.03,0
+"643","every data",1,0,0.01,0
+"644","every data scientist",1,0,0.01,0
+"645","data scientist know",1,0,0.01,0
+"646","scientist know",1,0,0.01,0
+"647","scientist know data",1,0,0.01,0
+"648","know data",1,0,0.01,0
+"649","know data scientist",1,0,0.01,0
+"650","data scientist can",2,0,0.02,0
+"651","scientist can",2,0,0.02,0
+"652","scientist can expect",1,0,0.01,0
+"653","can",5,3,0.05,0.157894736842105
+"654","can expect",1,0,0.01,0
+"655","can expect use",1,0,0.01,0
+"656","expect",2,0,0.02,0
+"657","expect use",1,0,0.01,0
+"658","expect use skills",1,0,0.01,0
+"659","use skills",1,0,0.01,0
+"660","use skills likely",1,0,0.01,0
+"661","skills likely",1,0,0.01,0
+"662","skills likely career",1,0,0.01,0
+"663","likely",2,0,0.02,0
+"664","likely career",1,0,0.01,0
+"665","likely career outlining",1,0,0.01,0
+"666","career",3,0,0.03,0
+"667","career outlining",1,0,0.01,0
+"668","career outlining sql",1,0,0.01,0
+"669","outlining",1,0,0.01,0
+"670","outlining sql",1,0,0.01,0
+"671","outlining sql python",1,0,0.01,0
+"672","sql python",1,0,0.01,0
+"673","sql python r",1,0,0.01,0
+"674","python r",3,0,0.03,0
+"675","python r jupyter",1,0,0.01,0
+"676","r jupyter",1,0,0.01,0
+"677","r jupyter notebook",1,0,0.01,0
+"678","jupyter",1,0,0.01,0
+"679","jupyter notebook",1,0,0.01,0
+"680","jupyter notebook visualizations",1,0,0.01,0
+"681","notebook",1,0,0.01,0
+"682","notebook visualizations",1,0,0.01,0
+"683","notebook visualizations reasons",1,0,0.01,0
+"684","visualizations reasons",1,0,0.01,0
+"685","visualizations reasons technical",1,0,0.01,0
+"686","reasons",1,0,0.01,0
+"687","reasons technical",1,0,0.01,0
+"688","reasons technical nontechnical",1,0,0.01,0
+"689","technical nontechnical",1,0,0.01,0
+"690","technical nontechnical skills",1,0,0.01,0
+"691","nontechnical",1,0,0.01,0
+"692","nontechnical skills",1,0,0.01,0
+"693","nontechnical skills applicants",1,0,0.01,0
+"694","skills applicants",1,0,0.01,0
+"695","skills applicants companies",1,0,0.01,0
+"696","applicants",1,0,0.01,0
+"697","applicants companies",1,0,0.01,0
+"698","applicants companies badly",1,0,0.01,0
+"699","companies",1,1,0.01,0.0526315789473684
+"700","companies badly",1,0,0.01,0
+"701","companies badly want",1,0,0.01,0
+"702","badly",1,0,0.01,0
+"703","badly want",1,0,0.01,0
+"704","badly want post",1,0,0.01,0
+"705","want post",1,0,0.01,0
+"706","want post data",1,0,0.01,0
+"707","post",1,0,0.01,0
+"708","post data",1,0,0.01,0
+"709","post data scientists",1,0,0.01,0
+"710","data scientists need",3,0,0.03,0
+"711","scientists need",3,0,0.03,0
+"712","scientists need advanced",1,0,0.01,0
+"713","need advanced",1,0,0.01,0
+"714","need advanced programming",1,0,0.01,0
+"715","advanced",4,6,0.04,0.315789473684211
+"716","advanced programming",1,0,0.01,0
+"717","advanced programming skills",1,0,0.01,0
+"718","programming skills manipulation",1,0,0.01,0
+"719","skills manipulation",1,0,0.01,0
+"720","skills manipulation data",1,0,0.01,0
+"721","manipulation",1,1,0.01,0.0526315789473684
+"722","manipulation data",1,0,0.01,0
+"723","manipulation data calculation",1,0,0.01,0
+"724","data calculation",1,0,0.01,0
+"725","data calculation complex",1,0,0.01,0
+"726","calculation",1,1,0.01,0.0526315789473684
+"727","calculation complex",1,0,0.01,0
+"728","calculation complex metrics",1,0,0.01,0
+"729","complex",2,3,0.02,0.157894736842105
+"730","complex metrics",1,0,0.01,0
+"731","complex metrics advanced",1,0,0.01,0
+"732","metrics",1,0,0.01,0
+"733","metrics advanced",1,0,0.01,0
+"734","metrics advanced machine",1,0,0.01,0
+"735","advanced machine",1,2,0.01,0.105263157894737
+"736","advanced machine learning",1,2,0.01,0.105263157894737
+"737","machine learning like",1,0,0.01,0
+"738","learning like",1,0,0.01,0
+"739","learning like payscale",1,0,0.01,0
+"740","like",6,1,0.06,0.0526315789473684
+"741","like payscale",1,0,0.01,0
+"742","like payscale cleverism",1,0,0.01,0
+"743","payscale",1,0,0.01,0
+"744","payscale cleverism",1,0,0.01,0
+"745","payscale cleverism also",1,0,0.01,0
+"746","cleverism",2,0,0.02,0
+"747","cleverism also",1,0,0.01,0
+"748","cleverism also notes",1,0,0.01,0
+"749","also notes",1,0,0.01,0
+"750","also notes essential",1,0,0.01,0
+"751","notes",1,0,0.01,0
+"752","notes essential",1,0,0.01,0
+"753","notes essential skills",1,0,0.01,0
+"754","essential skills machine",1,0,0.01,0
+"755","skills machine",1,0,0.01,0
+"756","skills machine learning",1,0,0.01,0
+"757","machine learning python",1,0,0.01,0
+"758","learning python",1,0,0.01,0
+"759","learning python r",1,0,0.01,0
+"760","python r data",1,0,0.01,0
+"761","r data",1,0,0.01,0
+"762","r data mining",1,0,0.01,0
+"763","data mining",1,1,0.01,0.0526315789473684
+"764","data mining critical",1,0,0.01,0
+"765","mining",1,2,0.01,0.105263157894737
+"766","mining critical",1,0,0.01,0
+"767","mining critical skill",1,0,0.01,0
+"768","critical",4,0,0.04,0
+"769","critical skill",1,0,0.01,0
+"770","critical skill cleverism",1,0,0.01,0
+"771","skill cleverism",1,0,0.01,0
+"772","skill cleverism points",1,0,0.01,0
+"773","cleverism points",1,0,0.01,0
+"774","cleverism points drew",1,0,0.01,0
+"775","points",1,0,0.01,0
+"776","points drew",1,0,0.01,0
+"777","points drew conway's",1,0,0.01,0
+"778","drew",1,0,0.01,0
+"779","drew conway's",1,0,0.01,0
+"780","drew conway's visualization",1,0,0.01,0
+"781","conway's",1,0,0.01,0
+"782","conway's visualization",1,0,0.01,0
+"783","conway's visualization data",1,0,0.01,0
+"784","visualization data",1,0,0.01,0
+"785","visualization data science",1,0,0.01,0
+"786","data science skill",3,0,0.03,0
+"787","science skill",3,0,0.03,0
+"788","science skill set",2,0,0.02,0
+"789","skill set",4,0,0.04,0
+"790","skill set often",1,0,0.01,0
+"791","set",4,0,0.04,0
+"792","set often",1,0,0.01,0
+"793","set often cited",1,0,0.01,0
+"794","often",4,1,0.04,0.0526315789473684
+"795","often cited",1,0,0.01,0
+"796","often cited classic",1,0,0.01,0
+"797","cited",1,0,0.01,0
+"798","cited classic",1,0,0.01,0
+"799","cited classic different",1,0,0.01,0
+"800","classic",2,0,0.02,0
+"801","classic different",1,0,0.01,0
+"802","classic different opinions",1,0,0.01,0
+"803","different opinions",1,0,0.01,0
+"804","different opinions versatility",1,0,0.01,0
+"805","opinions",1,0,0.01,0
+"806","opinions versatility",1,0,0.01,0
+"807","opinions versatility role",1,0,0.01,0
+"808","versatility",1,0,0.01,0
+"809","versatility role",1,0,0.01,0
+"810","versatility role spawned",1,0,0.01,0
+"811","role",4,1,0.04,0.0526315789473684
+"812","role spawned",1,0,0.01,0
+"813","role spawned numerous",1,0,0.01,0
+"814","spawned",1,0,0.01,0
+"815","spawned numerous",1,0,0.01,0
+"816","spawned numerous good",1,0,0.01,0
+"817","numerous",2,0,0.02,0
+"818","numerous good",1,0,0.01,0
+"819","numerous good news",1,0,0.01,0
+"820","good news",1,0,0.01,0
+"821","good news already",1,0,0.01,0
+"822","news",1,0,0.01,0
+"823","news already",1,0,0.01,0
+"824","news already skills",1,0,0.01,0
+"825","already",2,0,0.02,0
+"826","already skills",1,0,0.01,0
+"827","already skills need",1,0,0.01,0
+"828","skills need become",2,0,0.02,0
+"829","need become",2,0,0.02,0
+"830","need become data",1,0,0.01,0
+"831","become",5,1,0.05,0.0526315789473684
+"832","become data",3,0,0.03,0
+"833","become data scientist",2,0,0.02,0
+"834","data scientist include",2,0,0.02,0
+"835","scientist include",2,0,0.02,0
+"836","scientist include data",1,0,0.01,0
+"837","include",3,6,0.03,0.315789473684211
+"838","include data",1,0,0.01,0
+"839","include data handling",1,0,0.01,0
+"840","data handling",1,0,0.01,0
+"841","data handling statistical",1,0,0.01,0
+"842","handling",1,0,0.01,0
+"843","handling statistical",1,0,0.01,0
+"844","handling statistical analysis",1,0,0.01,0
+"845","statistical analysis",1,0,0.01,0
+"846","statistical analysis classic",1,0,0.01,0
+"847","analysis classic",1,0,0.01,0
+"848","analysis classic data",1,0,0.01,0
+"849","classic data",1,0,0.01,0
+"850","classic data science",1,0,0.01,0
+"851","data science venn",1,0,0.01,0
+"852","science venn",1,0,0.01,0
+"853","science venn diagram",1,0,0.01,0
+"854","venn",1,0,0.01,0
+"855","venn diagram",1,0,0.01,0
+"856","venn diagram data",1,0,0.01,0
+"857","diagram",1,0,0.01,0
+"858","diagram data",1,0,0.01,0
+"859","diagram data scientist",1,0,0.01,0
+"860","data scientist exists",1,0,0.01,0
+"861","scientist exists",1,0,0.01,0
+"862","scientist exists convergence",1,0,0.01,0
+"863","exists",1,0,0.01,0
+"864","exists convergence",1,0,0.01,0
+"865","exists convergence skills",1,0,0.01,0
+"866","convergence",1,0,0.01,0
+"867","convergence skills",1,0,0.01,0
+"868","convergence skills mathematics",1,0,0.01,0
+"869","skills mathematics",2,0,0.02,0
+"870","skills mathematics statistics",1,0,0.01,0
+"871","mathematics statistics hacking",1,0,0.01,0
+"872","statistics hacking",1,0,0.01,0
+"873","statistics hacking domain",1,0,0.01,0
+"874","hacking",1,0,0.01,0
+"875","hacking domain",1,0,0.01,0
+"876","hacking domain expertise",1,0,0.01,0
+"877","domain",3,0,0.03,0
+"878","domain expertise",1,0,0.01,0
+"879","domain expertise still",1,0,0.01,0
+"880","expertise",2,0,0.02,0
+"881","expertise still",1,0,0.01,0
+"882","expertise still one",1,0,0.01,0
+"883","still",1,0,0.01,0
+"884","still one",1,0,0.01,0
+"885","still one vital",1,0,0.01,0
+"886","one",3,1,0.03,0.0526315789473684
+"887","one vital",1,0,0.01,0
+"888","one vital skills",1,0,0.01,0
+"889","vital skills",1,0,0.01,0
+"890","vital skills data",1,0,0.01,0
+"891","skills data scientist",4,0,0.04,0
+"892","data scientist data",2,0,0.02,0
+"893","scientist data",2,0,0.02,0
+"894","scientist data heart",1,0,0.01,0
+"895","data heart",1,0,0.01,0
+"896","data heart data",1,0,0.01,0
+"897","heart",1,0,0.01,0
+"898","heart data",1,0,0.01,0
+"899","heart data science",1,0,0.01,0
+"900","data science project",1,0,0.01,0
+"901","science project",1,0,0.01,0
+"902","science project pandas",1,0,0.01,0
+"903","project",1,3,0.01,0.157894736842105
+"904","project pandas",1,0,0.01,0
+"905","project pandas discussions",1,0,0.01,0
+"906","pandas",3,0,0.03,0
+"907","pandas discussions",1,0,0.01,0
+"908","pandas discussions data",1,0,0.01,0
+"909","discussions data",1,0,0.01,0
+"910","discussions data science",1,0,0.01,0
+"911","science skills ve",0,0,0,0
+"912","skills ve",0,0,0,0
+"913","skills ve seen",0,0,0,0
+"914","ve",2,0,0.02,0
+"915","ve seen",1,0,0.01,0
+"916","ve seen explicitly",1,0,0.01,0
+"917","seen",1,0,0.01,0
+"918","seen explicitly",1,0,0.01,0
+"919","seen explicitly acknowledge",1,0,0.01,0
+"920","explicitly",1,0,0.01,0
+"921","explicitly acknowledge",1,0,0.01,0
+"922","explicitly acknowledge gaps",1,0,0.01,0
+"923","acknowledge",2,0,0.02,0
+"924","acknowledge gaps",1,0,0.01,0
+"925","acknowledge gaps skill",1,0,0.01,0
+"926","gaps",2,0,0.02,0
+"927","gaps skill",1,0,0.01,0
+"928","gaps skill sets",1,0,0.01,0
+"929","skill sets",4,0,0.04,0
+"930","skill sets long",1,0,0.01,0
+"931","sets long",1,0,0.01,0
+"932","sets long team",1,0,0.01,0
+"933","long",2,0,0.02,0
+"934","long team",1,0,0.01,0
+"935","long team gaps",1,0,0.01,0
+"936","team",1,0,0.01,0
+"937","team gaps",1,0,0.01,0
+"938","team gaps skills",1,0,0.01,0
+"939","gaps skills",1,0,0.01,0
+"940","gaps skills required",1,0,0.01,0
+"941","skills required",4,0,0.04,0
+"942","skills required become",1,0,0.01,0
+"943","required become",1,0,0.01,0
+"944","required become data",1,0,0.01,0
+"945","data scientist like",1,0,0.01,0
+"946","scientist like",1,0,0.01,0
+"947","scientist like computer",1,0,0.01,0
+"948","like computer",1,0,0.01,0
+"949","like computer programming",1,0,0.01,0
+"950","computer programming",2,0,0.02,0
+"951","computer programming skills",1,0,0.01,0
+"952","programming skills mathematics",1,0,0.01,0
+"953","skills mathematics business",1,0,0.01,0
+"954","mathematics business",1,0,0.01,0
+"955","mathematics business communication",1,0,0.01,0
+"956","business",5,8,0.05,0.421052631578947
+"957","business communication",1,0,0.01,0
+"958","business communication skills",1,0,0.01,0
+"959","communication skills detail",1,0,0.01,0
+"960","skills detail",1,0,0.01,0
+"961","skills detail main",1,0,0.01,0
+"962","detail",2,1,0.02,0.0526315789473684
+"963","detail main",1,0,0.01,0
+"964","detail main skills",1,0,0.01,0
+"965","main skills",2,0,0.02,0
+"966","main skills senior",1,0,0.01,0
+"967","senior data scientist",1,0,0.01,0
+"968","scientist must list",1,0,0.01,0
+"969","must list",1,0,0.01,0
+"970","must list three",1,0,0.01,0
+"971","list",2,0,0.02,0
+"972","list three",1,0,0.01,0
+"973","list three articles",1,0,0.01,0
+"974","three",2,0,0.02,0
+"975","three articles",1,0,0.01,0
+"976","three articles describing",1,0,0.01,0
+"977","articles",4,0,0.04,0
+"978","articles describing",1,0,0.01,0
+"979","articles describing job",1,0,0.01,0
+"980","describing",1,0,0.01,0
+"981","describing job",1,0,0.01,0
+"982","describing job expand",1,0,0.01,0
+"983","job expand",1,0,0.01,0
+"984","job expand essential",1,0,0.01,0
+"985","expand",1,0,0.01,0
+"986","expand essential",1,0,0.01,0
+"987","expand essential python",1,0,0.01,0
+"988","essential python",1,0,0.01,0
+"989","essential python skills",1,0,0.01,0
+"990","python skills",1,0,0.01,0
+"991","python skills data",1,0,0.01,0
+"992","skills data scientists",4,0,0.04,0
+"993","data scientists pretty",1,0,0.01,0
+"994","scientists pretty",1,0,0.01,0
+"995","scientists pretty cool",1,0,0.01,0
+"996","pretty",1,0,0.01,0
+"997","pretty cool",1,0,0.01,0
+"998","pretty cool pure",1,0,0.01,0
+"999","cool",1,0,0.01,0
+"1000","cool pure",1,0,0.01,0
+"1001","cool pure python",1,0,0.01,0
+"1002","pure",1,0,0.01,0
+"1003","pure python",1,0,0.01,0
+"1004","pure python functionalities",1,0,0.01,0
+"1005","python functionalities",1,0,0.01,0
+"1006","python functionalities use",1,0,0.01,0
+"1007","functionalities",1,0,0.01,0
+"1008","functionalities use",1,0,0.01,0
+"1009","functionalities use often",1,0,0.01,0
+"1010","use often",1,0,0.01,0
+"1011","use often daily",1,0,0.01,0
+"1012","often daily",1,0,0.01,0
+"1013","often daily data",1,0,0.01,0
+"1014","daily",1,0,0.01,0
+"1015","daily data",1,0,0.01,0
+"1016","daily data science",1,0,0.01,0
+"1017","science job key",1,0,0.01,0
+"1018","job key",1,0,0.01,0
+"1019","job key portion",1,0,0.01,0
+"1020","key",1,1,0.01,0.0526315789473684
+"1021","key portion",1,0,0.01,0
+"1022","key portion data",1,0,0.01,0
+"1023","portion",1,0,0.01,0
+"1024","portion data",1,0,0.01,0
+"1025","portion data scientist",1,0,0.01,0
+"1026","data scientist researching",1,0,0.01,0
+"1027","scientist researching",1,0,0.01,0
+"1028","scientist researching becoming",1,0,0.01,0
+"1029","researching",1,0,0.01,0
+"1030","researching becoming",1,0,0.01,0
+"1031","researching becoming familiar",1,0,0.01,0
+"1032","becoming",4,0,0.04,0
+"1033","becoming familiar",1,0,0.01,0
+"1034","becoming familiar modern",1,0,0.01,0
+"1035","familiar",1,0,0.01,0
+"1036","familiar modern",1,0,0.01,0
+"1037","familiar modern technologies",1,0,0.01,0
+"1038","modern",2,0,0.02,0
+"1039","modern technologies",1,0,0.01,0
+"1040","modern technologies disposal",1,0,0.01,0
+"1041","technologies disposal",1,0,0.01,0
+"1042","technologies disposal given",1,0,0.01,0
+"1043","disposal",1,0,0.01,0
+"1044","disposal given",1,0,0.01,0
+"1045","disposal given developing",1,0,0.01,0
+"1046","given",2,0,0.02,0
+"1047","given developing",1,0,0.01,0
+"1048","given developing business",1,0,0.01,0
+"1049","developing",1,0,0.01,0
+"1050","developing business",1,0,0.01,0
+"1051","developing business problem",1,0,0.01,0
+"1052","business problem",2,0,0.02,0
+"1053","business problem working",1,0,0.01,0
+"1054","problem",3,0,0.03,0
+"1055","problem working",1,0,0.01,0
+"1056","problem working big",1,0,0.01,0
+"1057","working",1,3,0.01,0.157894736842105
+"1058","working big",1,0,0.01,0
+"1059","working big small",1,0,0.01,0
+"1060","big",2,2,0.02,0.105263157894737
+"1061","big small",1,0,0.01,0
+"1062","big small data",1,0,0.01,0
+"1063","small",1,1,0.01,0.0526315789473684
+"1064","small data",1,0,0.01,0
+"1065","small data ingestion",1,0,0.01,0
+"1066","data ingestion",1,0,0.01,0
+"1067","data ingestion processing",1,0,0.01,0
+"1068","ingestion",1,0,0.01,0
+"1069","ingestion processing",1,0,0.01,0
+"1070","ingestion processing understanding",1,0,0.01,0
+"1071","processing",1,1,0.01,0.0526315789473684
+"1072","processing understanding",1,0,0.01,0
+"1073","processing understanding data",1,0,0.01,0
+"1074","understanding",4,3,0.04,0.157894736842105
+"1075","understanding data",3,1,0.03,0.0526315789473684
+"1076","understanding data cleaning",1,0,0.01,0
+"1077","data cleaning",1,1,0.01,0.0526315789473684
+"1078","data cleaning data",1,0,0.01,0
+"1079","cleaning",1,1,0.01,0.0526315789473684
+"1080","cleaning data",1,0,0.01,0
+"1081","cleaning data science",1,0,0.01,0
+"1082","data science complex",1,0,0.01,0
+"1083","science complex",1,0,0.01,0
+"1084","science complex field",1,0,0.01,0
+"1085","complex field",1,0,0.01,0
+"1086","complex field requires",1,0,0.01,0
+"1087","field requires",1,0,0.01,0
+"1088","field requires understanding",1,0,0.01,0
+"1089","requires",2,0,0.02,0
+"1090","requires understanding",1,0,0.01,0
+"1091","requires understanding data",1,0,0.01,0
+"1092","understanding data statistics",1,0,0.01,0
+"1093","data statistics",1,0,0.01,0
+"1094","data statistics programming",1,0,0.01,0
+"1095","statistics programming",1,0,0.01,0
+"1096","statistics programming subject",1,0,0.01,0
+"1097","programming subject",1,0,0.01,0
+"1098","programming subject matters",1,0,0.01,0
+"1099","subject",1,0,0.01,0
+"1100","subject matters",1,0,0.01,0
+"1101","subject matters order",1,0,0.01,0
+"1102","matters",1,0,0.01,0
+"1103","matters order",1,0,0.01,0
+"1104","matters order grow",1,0,0.01,0
+"1105","order",1,1,0.01,0.0526315789473684
+"1106","order grow",1,0,0.01,0
+"1107","order grow data",1,0,0.01,0
+"1108","grow",2,0,0.02,0
+"1109","grow data",2,0,0.02,0
+"1110","grow data scientists",1,0,0.01,0
+"1111","scientists need able",1,0,0.01,0
+"1112","need able",1,0,0.01,0
+"1113","need able article",1,0,0.01,0
+"1114","able article",1,0,0.01,0
+"1115","able article provide",1,0,0.01,0
+"1116","article provide",1,0,0.01,0
+"1117","article provide understanding",1,0,0.01,0
+"1118","provide",1,4,0.01,0.210526315789474
+"1119","provide understanding",1,0,0.01,0
+"1120","provide understanding data",1,0,0.01,0
+"1121","understanding data science",1,0,0.01,0
+"1122","data science works",1,0,0.01,0
+"1123","science works",1,0,0.01,0
+"1124","science works also",1,0,0.01,0
+"1125","works",1,0,0.01,0
+"1126","works also",1,0,0.01,0
+"1127","works also outline",1,0,0.01,0
+"1128","also outline",1,0,0.01,0
+"1129","also outline skills",1,0,0.01,0
+"1130","outline",1,0,0.01,0
+"1131","outline skills",1,0,0.01,0
+"1132","outline skills need",1,0,0.01,0
+"1133","need become successful",1,0,0.01,0
+"1134","become successful",1,0,0.01,0
+"1135","become successful data",1,0,0.01,0
+"1136","successful",1,0,0.01,0
+"1137","successful data",1,0,0.01,0
+"1138","successful data scientist",1,0,0.01,0
+"1139","scientist data analyst",1,0,0.01,0
+"1140","data analyst",1,0,0.01,0
+"1141","data analyst business",1,0,0.01,0
+"1142","analyst",2,0,0.02,0
+"1143","analyst business",1,0,0.01,0
+"1144","analyst business analyst",1,0,0.01,0
+"1145","business analyst",1,0,0.01,0
+"1146","business analyst data",1,0,0.01,0
+"1147","analyst data",1,0,0.01,0
+"1148","analyst data scientist",1,0,0.01,0
+"1149","data scientist work",1,0,0.01,0
+"1150","scientist work",1,0,0.01,0
+"1151","scientist work organization",1,0,0.01,0
+"1152","work",4,2,0.04,0.105263157894737
+"1153","work organization",1,0,0.01,0
+"1154","work organization data",1,0,0.01,0
+"1155","organization",1,1,0.01,0.0526315789473684
+"1156","organization data",1,0,0.01,0
+"1157","organization data science",1,0,0.01,0
+"1158","data science problem",1,0,0.01,0
+"1159","science problem",1,0,0.01,0
+"1160","science problem broken",1,0,0.01,0
+"1161","problem broken",1,0,0.01,0
+"1162","problem broken two",1,0,0.01,0
+"1163","broken",1,0,0.01,0
+"1164","broken two",1,0,0.01,0
+"1165","broken two technical",1,0,0.01,0
+"1166","two",2,0,0.02,0
+"1167","two technical",1,0,0.01,0
+"1168","two technical skills",1,0,0.01,0
+"1169","technical skills necessary",1,0,0.01,0
+"1170","skills necessary",1,0,0.01,0
+"1171","skills necessary grow",1,0,0.01,0
+"1172","necessary grow",1,0,0.01,0
+"1173","necessary grow data",1,0,0.01,0
+"1174","grow data scientist",1,0,0.01,0
+"1175","data scientist computer",1,0,0.01,0
+"1176","scientist computer",1,0,0.01,0
+"1177","scientist computer programming",1,0,0.01,0
+"1178","computer programming probably",1,0,0.01,0
+"1179","programming probably",1,0,0.01,0
+"1180","programming probably critical",1,0,0.01,0
+"1181","probably",1,0,0.01,0
+"1182","probably critical",1,0,0.01,0
+"1183","probably critical part",1,0,0.01,0
+"1184","critical part",1,0,0.01,0
+"1185","critical part data",1,0,0.01,0
+"1186","part",1,2,0.01,0.105263157894737
+"1187","part data",1,0,0.01,0
+"1188","part data science",1,0,0.01,0
+"1189","science job differences",1,0,0.01,0
+"1190","job differences",1,0,0.01,0
+"1191","job differences similarities",1,0,0.01,0
+"1192","differences",2,0,0.02,0
+"1193","differences similarities",1,0,0.01,0
+"1194","differences similarities data",1,0,0.01,0
+"1195","similarities",4,0,0.04,0
+"1196","similarities data",3,0,0.03,0
+"1197","similarities data science",2,0,0.02,0
+"1198","data science data",2,0,0.02,0
+"1199","science data",2,0,0.02,0
+"1200","science data analysis",1,0,0.01,0
+"1201","data analysis",1,0,0.01,0
+"1202","data analysis data",1,0,0.01,0
+"1203","analysis data",1,0,0.01,0
+"1204","analysis data top",1,0,0.01,0
+"1205","data top",1,0,0.01,0
+"1206","data top skills",1,0,0.01,0
+"1207","top skills required",1,0,0.01,0
+"1208","skills required data",2,0,0.02,0
+"1209","required data",3,0,0.03,0
+"1210","required data scientist",2,0,0.02,0
+"1211","data scientist common",1,0,0.01,0
+"1212","scientist common",1,0,0.01,0
+"1213","scientist common skills",1,0,0.01,0
+"1214","common",1,0,0.01,0
+"1215","common skills",1,0,0.01,0
+"1216","common skills data",1,0,0.01,0
+"1217","data scientists posted",1,0,0.01,0
+"1218","scientists posted",1,0,0.01,0
+"1219","scientists posted profiles",1,0,0.01,0
+"1220","posted",1,0,0.01,0
+"1221","posted profiles",1,0,0.01,0
+"1222","posted profiles r",1,0,0.01,0
+"1223","profiles",1,0,0.01,0
+"1224","profiles r",1,0,0.01,0
+"1225","profiles r python",1,0,0.01,0
+"1226","r python",2,1,0.02,0.0526315789473684
+"1227","r python programming",1,0,0.01,0
+"1228","python programming languages",1,0,0.01,0
+"1229","programming languages",3,0,0.03,0
+"1230","programming languages dominate",1,0,0.01,0
+"1231","languages",3,0,0.03,0
+"1232","languages dominate",1,0,0.01,0
+"1233","languages dominate data",1,0,0.01,0
+"1234","dominate",1,0,0.01,0
+"1235","dominate data",1,0,0.01,0
+"1236","dominate data science",1,0,0.01,0
+"1237","science field time",1,0,0.01,0
+"1238","field time",1,0,0.01,0
+"1239","field time m",0,0,0,0
+"1240","time",5,5,0.05,0.263157894736842
+"1241","time m",0,0,0,0
+"1242","time m writing",0,0,0,0
+"1243","m",1,0,0.01,0
+"1244","m writing",1,0,0.01,0
+"1245","m writing every",1,0,0.01,0
+"1246","writing",1,0,0.01,0
+"1247","writing every",1,0,0.01,0
+"1248","writing every single",1,0,0.01,0
+"1249","every single",1,0,0.01,0
+"1250","every single trending",1,0,0.01,0
+"1251","single",1,0,0.01,0
+"1252","single trending",1,0,0.01,0
+"1253","single trending article",1,0,0.01,0
+"1254","trending",1,0,0.01,0
+"1255","trending article",1,0,0.01,0
+"1256","trending article towards",1,0,0.01,0
+"1257","article towards",1,0,0.01,0
+"1258","article towards data",1,0,0.01,0
+"1259","towards",2,0,0.02,0
+"1260","towards data",1,0,0.01,0
+"1261","towards data science",1,0,0.01,0
+"1262","data science home",1,0,0.01,0
+"1263","science home",1,0,0.01,0
+"1264","science home page",1,0,0.01,0
+"1265","home",1,0,0.01,0
+"1266","home page",1,0,0.01,0
+"1267","home page talking",1,0,0.01,0
+"1268","page",1,1,0.01,0.0526315789473684
+"1269","page talking",1,0,0.01,0
+"1270","page talking applying",1,0,0.01,0
+"1271","talking",1,0,0.01,0
+"1272","talking applying",1,0,0.01,0
+"1273","talking applying learning",1,0,0.01,0
+"1274","applying",1,0,0.01,0
+"1275","applying learning",1,0,0.01,0
+"1276","applying learning particular",1,0,0.01,0
+"1277","learning particular",1,0,0.01,0
+"1278","learning particular skill",1,0,0.01,0
+"1279","particular",1,3,0.01,0.157894736842105
+"1280","particular skill",1,0,0.01,0
+"1281","particular skill data",1,0,0.01,0
+"1282","skill data",3,0,0.03,0
+"1283","skill data important",1,0,0.01,0
+"1284","data important",1,0,0.01,0
+"1285","data important skills",1,0,0.01,0
+"1286","important",7,4,0.07,0.210526315789474
+"1287","important skills",2,0,0.02,0
+"1288","important skills data",1,0,0.01,0
+"1289","data scientists modelling",1,0,0.01,0
+"1290","scientists modelling",1,0,0.01,0
+"1291","scientists modelling statistics",1,0,0.01,0
+"1292","modelling",2,0,0.02,0
+"1293","modelling statistics",1,0,0.01,0
+"1294","modelling statistics including",1,0,0.01,0
+"1295","statistics including",1,0,0.01,0
+"1296","statistics including machine",1,0,0.01,0
+"1297","including",3,5,0.03,0.263157894736842
+"1298","including machine",2,0,0.02,0
+"1299","including machine learning",2,0,0.02,0
+"1300","machine learning statistical",1,0,0.01,0
+"1301","learning statistical",1,0,0.01,0
+"1302","learning statistical modelling",1,0,0.01,0
+"1303","statistical modelling",1,0,0.01,0
+"1304","statistical modelling model",1,0,0.01,0
+"1305","modelling model",1,0,0.01,0
+"1306","modelling model deployment",1,0,0.01,0
+"1307","model",3,1,0.03,0.0526315789473684
+"1308","model deployment",1,0,0.01,0
+"1309","model deployment idea",1,0,0.01,0
+"1310","deployment",1,0,0.01,0
+"1311","deployment idea",1,0,0.01,0
+"1312","deployment idea wanted",1,0,0.01,0
+"1313","idea",1,0,0.01,0
+"1314","idea wanted",1,0,0.01,0
+"1315","idea wanted become",1,0,0.01,0
+"1316","wanted become",1,0,0.01,0
+"1317","wanted become data",1,0,0.01,0
+"1318","become data science",1,0,0.01,0
+"1319","data science generalist",1,0,0.01,0
+"1320","science generalist",1,0,0.01,0
+"1321","science generalist specialist",1,0,0.01,0
+"1322","generalist",2,0,0.02,0
+"1323","generalist specialist",1,0,0.01,0
+"1324","generalist specialist takes",1,0,0.01,0
+"1325","specialist",1,0,0.01,0
+"1326","specialist takes",1,0,0.01,0
+"1327","specialist takes years",1,0,0.01,0
+"1328","takes",1,0,0.01,0
+"1329","takes years",1,0,0.01,0
+"1330","takes years acquire",1,0,0.01,0
+"1331","years",3,0,0.03,0
+"1332","years acquire",1,0,0.01,0
+"1333","years acquire skills",1,0,0.01,0
+"1334","acquire",1,0,0.01,0
+"1335","acquire skills",1,0,0.01,0
+"1336","acquire skills different",1,0,0.01,0
+"1337","skills different",1,0,0.01,0
+"1338","skills different areas",1,0,0.01,0
+"1339","different areas",1,0,0.01,0
+"1340","different areas yet",1,0,0.01,0
+"1341","areas",1,0,0.01,0
+"1342","areas yet",1,0,0.01,0
+"1343","areas yet s",0,0,0,0
+"1344","yet",2,0,0.02,0
+"1345","yet s",0,0,0,0
+"1346","yet s necessary",0,0,0,0
+"1347","s necessary",1,0,0.01,0
+"1348","s necessary data",1,0,0.01,0
+"1349","necessary data",1,0,0.01,0
+"1350","necessary data scientist",1,0,0.01,0
+"1351","data scientist build",1,0,0.01,0
+"1352","scientist build",1,0,0.01,0
+"1353","scientist build machine",1,0,0.01,0
+"1354","build",2,1,0.02,0.0526315789473684
+"1355","build machine",1,0,0.01,0
+"1356","build machine learning",1,0,0.01,0
+"1357","machine learning model",2,0,0.02,0
+"1358","learning model",2,0,0.02,0
+"1359","learning model just",1,0,0.01,0
+"1360","model just",1,0,0.01,0
+"1361","model just sake",1,0,0.01,0
+"1362","just sake",1,0,0.01,0
+"1363","just sake walk",1,0,0.01,0
+"1364","sake",1,0,0.01,0
+"1365","sake walk",1,0,0.01,0
+"1366","sake walk essential",1,0,0.01,0
+"1367","walk",1,0,0.01,0
+"1368","walk essential",1,0,0.01,0
+"1369","walk essential tools",1,0,0.01,0
+"1370","essential tools",1,0,0.01,0
+"1371","essential tools data",1,0,0.01,0
+"1372","tools",2,1,0.02,0.0526315789473684
+"1373","tools data",1,0,0.01,0
+"1374","tools data scientists",1,0,0.01,0
+"1375","scientists need know",1,0,0.01,0
+"1376","need know work",1,0,0.01,0
+"1377","know work",1,0,0.01,0
+"1378","know work remote",1,0,0.01,0
+"1379","work remote",1,0,0.01,0
+"1380","work remote computers",1,0,0.01,0
+"1381","remote",1,0,0.01,0
+"1382","remote computers",1,0,0.01,0
+"1383","remote computers core",1,0,0.01,0
+"1384","computers",1,0,0.01,0
+"1385","computers core",1,0,0.01,0
+"1386","computers core data",1,0,0.01,0
+"1387","core",2,1,0.02,0.0526315789473684
+"1388","core data",1,0,0.01,0
+"1389","core data science",1,0,0.01,0
+"1390","science skills python",1,0,0.01,0
+"1391","skills python",1,0,0.01,0
+"1392","skills python including",1,0,0.01,0
+"1393","python including",1,0,0.01,0
+"1394","python including numpy",1,0,0.01,0
+"1395","including numpy",1,0,0.01,0
+"1396","including numpy pandas",1,0,0.01,0
+"1397","numpy",1,0,0.01,0
+"1398","numpy pandas",1,0,0.01,0
+"1399","numpy pandas sklearn",1,0,0.01,0
+"1400","pandas sklearn",1,0,0.01,0
+"1401","pandas sklearn sql",1,0,0.01,0
+"1402","sklearn",1,0,0.01,0
+"1403","sklearn sql",1,0,0.01,0
+"1404","sklearn sql recommend",1,0,0.01,0
+"1405","sql recommend",1,0,0.01,0
+"1406","sql recommend watching",1,0,0.01,0
+"1407","recommend",1,0,0.01,0
+"1408","recommend watching",1,0,0.01,0
+"1409","recommend watching many",1,0,0.01,0
+"1410","watching",1,0,0.01,0
+"1411","watching many",1,0,0.01,0
+"1412","watching many tutorials",1,0,0.01,0
+"1413","many",7,1,0.07,0.0526315789473684
+"1414","many tutorials",1,0,0.01,0
+"1415","many tutorials re",0,0,0,0
+"1416","tutorials",1,0,0.01,0
+"1417","tutorials re",0,0,0,0
+"1418","tutorials re absolutely",0,0,0,0
+"1419","re",1,0,0.01,0
+"1420","re absolutely",1,0,0.01,0
+"1421","re absolutely topic",1,0,0.01,0
+"1422","absolutely",1,0,0.01,0
+"1423","absolutely topic",1,0,0.01,0
+"1424","absolutely topic real",1,0,0.01,0
+"1425","topic",2,1,0.02,0.0526315789473684
+"1426","topic real",1,0,0.01,0
+"1427","topic real world",1,0,0.01,0
+"1428","real",2,5,0.02,0.263157894736842
+"1429","real world",1,3,0.01,0.157894736842105
+"1430","real world data",1,0,0.01,0
+"1431","world data science",1,0,0.01,0
+"1432","data science git",1,0,0.01,0
+"1433","science git",1,0,0.01,0
+"1434","science git already",1,0,0.01,0
+"1435","git",1,0,0.01,0
+"1436","git already",1,0,0.01,0
+"1437","git already wrote",1,0,0.01,0
+"1438","already wrote",1,0,0.01,0
+"1439","already wrote topic",1,0,0.01,0
+"1440","wrote",1,0,0.01,0
+"1441","wrote topic",1,0,0.01,0
+"1442","wrote topic skills",1,0,0.01,0
+"1443","topic skills",1,0,0.01,0
+"1444","topic skills data",1,0,0.01,0
+"1445","data scientists learn",1,0,0.01,0
+"1446","scientists learn",1,0,0.01,0
+"1447","scientists learn article",1,0,0.01,0
+"1448","learn",2,13,0.02,0.684210526315789
+"1449","learn article",1,0,0.01,0
+"1450","learn article data",1,0,0.01,0
+"1451","article data",1,0,0.01,0
+"1452","article data science",1,0,0.01,0
+"1453","data science just",1,0,0.01,0
+"1454","science just",1,0,0.01,0
+"1455","science just ml",1,0,0.01,0
+"1456","just ml",1,0,0.01,0
+"1457","just ml advanced",1,0,0.01,0
+"1458","ml",3,0,0.03,0
+"1459","ml advanced",1,0,0.01,0
+"1460","ml advanced analytics",1,0,0.01,0
+"1461","advanced analytics",1,0,0.01,0
+"1462","advanced analytics data",1,0,0.01,0
+"1463","analytics",2,5,0.02,0.263157894736842
+"1464","analytics data",1,0,0.01,0
+"1465","analytics data science",1,0,0.01,0
+"1466","data science fortunately",1,0,0.01,0
+"1467","science fortunately",1,0,0.01,0
+"1468","science fortunately data",1,0,0.01,0
+"1469","fortunately",1,0,0.01,0
+"1470","fortunately data",1,0,0.01,0
+"1471","fortunately data scientists",1,0,0.01,0
+"1472","data scientists huge",1,0,0.01,0
+"1473","scientists huge",1,0,0.01,0
+"1474","scientists huge skills",1,0,0.01,0
+"1475","huge",2,0,0.02,0
+"1476","huge skills",1,0,0.01,0
+"1477","huge skills shortage",1,0,0.01,0
+"1478","skills shortage",1,0,0.01,0
+"1479","skills shortage every",1,0,0.01,0
+"1480","shortage",1,0,0.01,0
+"1481","shortage every",1,0,0.01,0
+"1482","shortage every aspirant",1,0,0.01,0
+"1483","every aspirant",1,0,0.01,0
+"1484","every aspirant data",1,0,0.01,0
+"1485","aspirant",1,0,0.01,0
+"1486","aspirant data",1,0,0.01,0
+"1487","aspirant data science",1,0,0.01,0
+"1488","data science question",1,0,0.01,0
+"1489","science question",1,0,0.01,0
+"1490","science question skills",1,0,0.01,0
+"1491","question",1,0,0.01,0
+"1492","question skills",1,0,0.01,0
+"1493","question skills need",1,0,0.01,0
+"1494","skills need data",1,0,0.01,0
+"1495","need data",1,0,0.01,0
+"1496","need data scientist",1,0,0.01,0
+"1497","data scientist loosely",1,0,0.01,0
+"1498","scientist loosely",1,0,0.01,0
+"1499","scientist loosely used",1,0,0.01,0
+"1500","loosely",1,0,0.01,0
+"1501","loosely used",1,0,0.01,0
+"1502","loosely used term",1,0,0.01,0
+"1503","used term",1,0,0.01,0
+"1504","used term title",1,0,0.01,0
+"1505","term",1,0,0.01,0
+"1506","term title",1,0,0.01,0
+"1507","term title s",0,0,0,0
+"1508","title",1,0,0.01,0
+"1509","title s",0,0,0,0
+"1510","title s heavily",0,0,0,0
+"1511","s heavily",1,0,0.01,0
+"1512","s heavily abused",1,0,0.01,0
+"1513","heavily",2,0,0.02,0
+"1514","heavily abused",1,0,0.01,0
+"1515","heavily abused t",1,0,0.01,0
+"1516","abused",1,0,0.01,0
+"1517","abused t",1,0,0.01,0
+"1518","abused t shaped",1,0,0.01,0
+"1519","t",1,0,0.01,0
+"1520","t shaped",1,0,0.01,0
+"1521","t shaped skills",1,0,0.01,0
+"1522","shaped",1,0,0.01,0
+"1523","shaped skills",1,0,0.01,0
+"1524","shaped skills builder",1,0,0.01,0
+"1525","skills builder",1,0,0.01,0
+"1526","skills builder guide",1,0,0.01,0
+"1527","builder",1,0,0.01,0
+"1528","builder guide",1,0,0.01,0
+"1529","builder guide end",1,0,0.01,0
+"1530","guide",1,0,0.01,0
+"1531","guide end",1,0,0.01,0
+"1532","guide end end",1,0,0.01,0
+"1533","end",3,0,0.03,0
+"1534","end end",1,0,0.01,0
+"1535","end end data",1,0,0.01,0
+"1536","end data",1,0,0.01,0
+"1537","end data scientist",1,0,0.01,0
+"1538","data scientist industry",1,0,0.01,0
+"1539","scientist industry",1,0,0.01,0
+"1540","scientist industry demands",1,0,0.01,0
+"1541","industry",1,1,0.01,0.0526315789473684
+"1542","industry demands",1,0,0.01,0
+"1543","industry demands people",1,0,0.01,0
+"1544","demands",2,0,0.02,0
+"1545","demands people",1,0,0.01,0
+"1546","demands people ability",1,0,0.01,0
+"1547","people ability",1,0,0.01,0
+"1548","people ability summarise",1,0,0.01,0
+"1549","ability",2,0,0.02,0
+"1550","ability summarise",1,0,0.01,0
+"1551","ability summarise analyse",1,0,0.01,0
+"1552","summarise",1,0,0.01,0
+"1553","summarise analyse",1,0,0.01,0
+"1554","summarise analyse decide",1,0,0.01,0
+"1555","analyse",1,0,0.01,0
+"1556","analyse decide",1,0,0.01,0
+"1557","analyse decide based",1,0,0.01,0
+"1558","decide",1,0,0.01,0
+"1559","decide based",1,0,0.01,0
+"1560","decide based ll",0,0,0,0
+"1561","based ll",0,0,0,0
+"1562","based ll always",0,0,0,0
+"1563","ll",1,0,0.01,0
+"1564","ll always",1,0,0.01,0
+"1565","ll always skills",1,0,0.01,0
+"1566","always",2,0,0.02,0
+"1567","always skills",1,0,0.01,0
+"1568","always skills technical",1,0,0.01,0
+"1569","skills technical non",1,0,0.01,0
+"1570","technical non",1,0,0.01,0
+"1571","technical non technical",1,0,0.01,0
+"1572","non",1,4,0.01,0.210526315789474
+"1573","non technical",1,0,0.01,0
+"1574","non technical data",1,0,0.01,0
+"1575","technical data",1,0,0.01,0
+"1576","technical data scientists",1,0,0.01,0
+"1577","scientists know learned",1,0,0.01,0
+"1578","know learned",1,0,0.01,0
+"1579","know learned different",1,0,0.01,0
+"1580","learned",1,0,0.01,0
+"1581","learned different",1,0,0.01,0
+"1582","learned different businesses",1,0,0.01,0
+"1583","different businesses",1,0,0.01,0
+"1584","different businesses require",1,0,0.01,0
+"1585","businesses",1,0,0.01,0
+"1586","businesses require",1,0,0.01,0
+"1587","businesses require different",1,0,0.01,0
+"1588","require",5,0,0.05,0
+"1589","require different",1,0,0.01,0
+"1590","require different skill",1,0,0.01,0
+"1591","different skill",1,0,0.01,0
+"1592","different skill sets",1,0,0.01,0
+"1593","skill sets certainly",1,0,0.01,0
+"1594","sets certainly",1,0,0.01,0
+"1595","sets certainly enough",1,0,0.01,0
+"1596","certainly",1,0,0.01,0
+"1597","certainly enough",1,0,0.01,0
+"1598","certainly enough data",1,0,0.01,0
+"1599","enough",1,0,0.01,0
+"1600","enough data",1,0,0.01,0
+"1601","enough data science",1,0,0.01,0
+"1602","data science demands",1,0,0.01,0
+"1603","science demands",1,0,0.01,0
+"1604","science demands exceptional",1,0,0.01,0
+"1605","demands exceptional",1,0,0.01,0
+"1606","demands exceptional skills",1,0,0.01,0
+"1607","exceptional",1,0,0.01,0
+"1608","exceptional skills",1,0,0.01,0
+"1609","exceptional skills persistence",1,0,0.01,0
+"1610","skills persistence",1,0,0.01,0
+"1611","skills persistence clarity",1,0,0.01,0
+"1612","persistence",1,0,0.01,0
+"1613","persistence clarity",1,0,0.01,0
+"1614","persistence clarity master",1,0,0.01,0
+"1615","clarity",1,0,0.01,0
+"1616","clarity master",1,0,0.01,0
+"1617","clarity master methodology",1,0,0.01,0
+"1618","master",1,0,0.01,0
+"1619","master methodology",1,0,0.01,0
+"1620","master methodology data",1,0,0.01,0
+"1621","methodology",1,0,0.01,0
+"1622","methodology data",1,0,0.01,0
+"1623","methodology data scientists",1,0,0.01,0
+"1624","data scientists employ",1,0,0.01,0
+"1625","scientists employ",1,0,0.01,0
+"1626","scientists employ draw",1,0,0.01,0
+"1627","employ",1,0,0.01,0
+"1628","employ draw",1,0,0.01,0
+"1629","employ draw job",1,0,0.01,0
+"1630","draw",1,0,0.01,0
+"1631","draw job",1,0,0.01,0
+"1632","draw job market",1,0,0.01,0
+"1633","job market",2,0,0.02,0
+"1634","job market data",1,0,0.01,0
+"1635","market",2,0,0.02,0
+"1636","market data",1,0,0.01,0
+"1637","market data scientists",1,0,0.01,0
+"1638","data scientists expands",1,0,0.01,0
+"1639","scientists expands",1,0,0.01,0
+"1640","scientists expands days",1,0,0.01,0
+"1641","expands",1,0,0.01,0
+"1642","expands days",1,0,0.01,0
+"1643","expands days many",1,0,0.01,0
+"1644","days",1,0,0.01,0
+"1645","days many",1,0,0.01,0
+"1646","days many data",1,0,0.01,0
+"1647","many data",1,0,0.01,0
+"1648","many data scientist",1,0,0.01,0
+"1649","scientist job listings",1,0,0.01,0
+"1650","job listings",1,0,0.01,0
+"1651","job listings really",1,0,0.01,0
+"1652","listings",1,0,0.01,0
+"1653","listings really",1,0,0.01,0
+"1654","listings really looking",1,0,0.01,0
+"1655","really",1,0,0.01,0
+"1656","really looking",1,0,0.01,0
+"1657","really looking different",1,0,0.01,0
+"1658","looking",3,0,0.03,0
+"1659","looking different",1,0,0.01,0
+"1660","looking different sets",1,0,0.01,0
+"1661","different sets",1,0,0.01,0
+"1662","different sets tech",1,0,0.01,0
+"1663","sets tech",1,0,0.01,0
+"1664","sets tech skills",1,0,0.01,0
+"1665","tech",2,0,0.02,0
+"1666","tech skills",2,0,0.02,0
+"1667","tech skills data",1,0,0.01,0
+"1668","skills data yes",1,0,0.01,0
+"1669","data yes",1,0,0.01,0
+"1670","data yes need",1,0,0.01,0
+"1671","yes",1,0,0.01,0
+"1672","yes need",1,0,0.01,0
+"1673","yes need technical",1,0,0.01,0
+"1674","need technical",1,0,0.01,0
+"1675","need technical skills",1,0,0.01,0
+"1676","technical skills like",1,0,0.01,0
+"1677","skills like",2,0,0.02,0
+"1678","skills like pandas",1,0,0.01,0
+"1679","like pandas",1,0,0.01,0
+"1680","like pandas python",1,0,0.01,0
+"1681","pandas python",1,0,0.01,0
+"1682","pandas python real",1,0,0.01,0
+"1683","python real",1,0,0.01,0
+"1684","python real critical",1,0,0.01,0
+"1685","real critical",1,0,0.01,0
+"1686","real critical skills",1,0,0.01,0
+"1687","critical skills",1,0,0.01,0
+"1688","critical skills need",1,0,0.01,0
+"1689","skills need get",1,0,0.01,0
+"1690","need get",1,0,0.01,0
+"1691","need get hired",1,0,0.01,0
+"1692","get",1,0,0.01,0
+"1693","get hired",1,0,0.01,0
+"1694","get hired data",1,0,0.01,0
+"1695","hired",1,0,0.01,0
+"1696","hired data",1,0,0.01,0
+"1697","hired data scientist",1,0,0.01,0
+"1698","data scientist article",1,0,0.01,0
+"1699","scientist article",1,0,0.01,0
+"1700","scientist article define",1,0,0.01,0
+"1701","article define",1,0,0.01,0
+"1702","article define portfolio",1,0,0.01,0
+"1703","define",1,0,0.01,0
+"1704","define portfolio",1,0,0.01,0
+"1705","define portfolio public",1,0,0.01,0
+"1706","portfolio",1,0,0.01,0
+"1707","portfolio public",1,0,0.01,0
+"1708","portfolio public evidence",1,0,0.01,0
+"1709","public",1,0,0.01,0
+"1710","public evidence",1,0,0.01,0
+"1711","public evidence data",1,0,0.01,0
+"1712","evidence",1,0,0.01,0
+"1713","evidence data",1,0,0.01,0
+"1714","evidence data science",1,0,0.01,0
+"1715","science skills got",1,0,0.01,0
+"1716","skills got",1,0,0.01,0
+"1717","skills got definition",1,0,0.01,0
+"1718","got",2,0,0.02,0
+"1719","got definition",1,0,0.01,0
+"1720","got definition david",1,0,0.01,0
+"1721","definition",1,0,0.01,0
+"1722","definition david",1,0,0.01,0
+"1723","definition david robinson",1,0,0.01,0
+"1724","david",1,0,0.01,0
+"1725","david robinson",1,0,0.01,0
+"1726","david robinson chief",1,0,0.01,0
+"1727","robinson",1,0,0.01,0
+"1728","robinson chief",1,0,0.01,0
+"1729","robinson chief data",1,0,0.01,0
+"1730","chief",1,0,0.01,0
+"1731","chief data",1,0,0.01,0
+"1732","chief data scientist",1,0,0.01,0
+"1733","data scientist mastering",1,0,0.01,0
+"1734","scientist mastering",1,0,0.01,0
+"1735","scientist mastering important",1,0,0.01,0
+"1736","mastering",1,0,0.01,0
+"1737","mastering important",1,0,0.01,0
+"1738","mastering important skill",1,0,0.01,0
+"1739","important skill",3,0,0.03,0
+"1740","important skill data",2,0,0.02,0
+"1741","skill data science",1,0,0.01,0
+"1742","data science critical",1,0,0.01,0
+"1743","science critical",1,0,0.01,0
+"1744","science critical thinking",1,0,0.01,0
+"1745","critical thinking",1,0,0.01,0
+"1746","critical thinking telling",1,0,0.01,0
+"1747","thinking",1,0,0.01,0
+"1748","thinking telling",1,0,0.01,0
+"1749","thinking telling stories",1,0,0.01,0
+"1750","telling",1,0,0.01,0
+"1751","telling stories",1,0,0.01,0
+"1752","telling stories exploring",1,0,0.01,0
+"1753","stories",1,0,0.01,0
+"1754","stories exploring",1,0,0.01,0
+"1755","stories exploring relationships",1,0,0.01,0
+"1756","exploring",1,0,0.01,0
+"1757","exploring relationships",1,0,0.01,0
+"1758","exploring relationships backing",1,0,0.01,0
+"1759","relationships",1,2,0.01,0.105263157894737
+"1760","relationships backing",1,0,0.01,0
+"1761","relationships backing decisions",1,0,0.01,0
+"1762","backing",1,0,0.01,0
+"1763","backing decisions",1,0,0.01,0
+"1764","backing decisions finding",1,0,0.01,0
+"1765","decisions",1,0,0.01,0
+"1766","decisions finding",1,0,0.01,0
+"1767","decisions finding furlough",1,0,0.01,0
+"1768","finding",1,1,0.01,0.0526315789473684
+"1769","finding furlough",1,0,0.01,0
+"1770","finding furlough come",1,0,0.01,0
+"1771","furlough",1,0,0.01,0
+"1772","furlough come",1,0,0.01,0
+"1773","furlough come sooner",1,0,0.01,0
+"1774","come",1,0,0.01,0
+"1775","come sooner",1,0,0.01,0
+"1776","come sooner first",1,0,0.01,0
+"1777","sooner",1,0,0.01,0
+"1778","sooner first",1,0,0.01,0
+"1779","sooner first transformative",1,0,0.01,0
+"1780","first",3,0,0.03,0
+"1781","first transformative",1,0,0.01,0
+"1782","first transformative decision",1,0,0.01,0
+"1783","transformative",1,0,0.01,0
+"1784","transformative decision",1,0,0.01,0
+"1785","transformative decision made",1,0,0.01,0
+"1786","decision",1,0,0.01,0
+"1787","decision made",1,0,0.01,0
+"1788","decision made commit",1,0,0.01,0
+"1789","made",1,0,0.01,0
+"1790","made commit",1,0,0.01,0
+"1791","made commit becoming",1,0,0.01,0
+"1792","commit",1,0,0.01,0
+"1793","commit becoming",1,0,0.01,0
+"1794","commit becoming future",1,0,0.01,0
+"1795","becoming future",1,0,0.01,0
+"1796","becoming future proof",1,0,0.01,0
+"1797","future",1,0,0.01,0
+"1798","future proof",1,0,0.01,0
+"1799","future proof indespensible",1,0,0.01,0
+"1800","proof",1,0,0.01,0
+"1801","proof indespensible",1,0,0.01,0
+"1802","proof indespensible data",1,0,0.01,0
+"1803","indespensible",1,0,0.01,0
+"1804","indespensible data",1,0,0.01,0
+"1805","indespensible data scientist",1,0,0.01,0
+"1806","scientist can see",1,0,0.01,0
+"1807","can see",1,0,0.01,0
+"1808","can see data",1,0,0.01,0
+"1809","see",2,0,0.02,0
+"1810","see data",1,0,0.01,0
+"1811","see data science",1,0,0.01,0
+"1812","data science requires",1,0,0.01,0
+"1813","science requires",1,0,0.01,0
+"1814","science requires strong",1,0,0.01,0
+"1815","requires strong",1,0,0.01,0
+"1816","requires strong skill",1,0,0.01,0
+"1817","strong skill",1,0,0.01,0
+"1818","strong skill set",1,0,0.01,0
+"1819","skill set three",1,0,0.01,0
+"1820","set three",1,0,0.01,0
+"1821","set three categories",1,0,0.01,0
+"1822","three categories",1,0,0.01,0
+"1823","three categories however",1,0,0.01,0
+"1824","categories",1,0,0.01,0
+"1825","categories however",1,0,0.01,0
+"1826","categories however roles",1,0,0.01,0
+"1827","however",6,1,0.06,0.0526315789473684
+"1828","however roles",1,0,0.01,0
+"1829","however roles require",1,0,0.01,0
+"1830","roles",1,1,0.01,0.0526315789473684
+"1831","roles require",1,0,0.01,0
+"1832","roles require skills",1,0,0.01,0
+"1833","require skills",1,0,0.01,0
+"1834","require skills biggest",1,0,0.01,0
+"1835","skills biggest",1,0,0.01,0
+"1836","skills biggest data",1,0,0.01,0
+"1837","biggest",1,0,0.01,0
+"1838","biggest data",1,0,0.01,0
+"1839","biggest data science",1,0,0.01,0
+"1840","data science reaching",1,0,0.01,0
+"1841","science reaching",1,0,0.01,0
+"1842","science reaching end",1,0,0.01,0
+"1843","reaching",1,0,0.01,0
+"1844","reaching end",1,0,0.01,0
+"1845","reaching end hype",1,0,0.01,0
+"1846","end hype",1,0,0.01,0
+"1847","end hype cycle",1,0,0.01,0
+"1848","hype",2,0,0.02,0
+"1849","hype cycle",1,0,0.01,0
+"1850","hype cycle skills",1,0,0.01,0
+"1851","cycle",1,0,0.01,0
+"1852","cycle skills",1,0,0.01,0
+"1853","cycle skills becoming",1,0,0.01,0
+"1854","skills becoming",1,0,0.01,0
+"1855","skills becoming data",1,0,0.01,0
+"1856","becoming data",1,0,0.01,0
+"1857","becoming data scientist",1,0,0.01,0
+"1858","data scientist changing",1,0,0.01,0
+"1859","scientist changing",1,0,0.01,0
+"1860","scientist changing besides",1,0,0.01,0
+"1861","changing besides",1,0,0.01,0
+"1862","changing besides fiddling",1,0,0.01,0
+"1863","besides",1,0,0.01,0
+"1864","besides fiddling",1,0,0.01,0
+"1865","besides fiddling best",1,0,0.01,0
+"1866","fiddling",1,0,0.01,0
+"1867","fiddling best",1,0,0.01,0
+"1868","fiddling best data",1,0,0.01,0
+"1869","best",1,0,0.01,0
+"1870","best data",1,0,0.01,0
+"1871","best data scientist",1,0,0.01,0
+"1872","scientist skills statistics",1,0,0.01,0
+"1873","skills statistics",2,0,0.02,0
+"1874","skills statistics mathematics",1,0,0.01,0
+"1875","statistics mathematics programming",1,0,0.01,0
+"1876","mathematics programming",1,0,0.01,0
+"1877","mathematics programming languages",1,0,0.01,0
+"1878","programming languages data",1,0,0.01,0
+"1879","languages data",1,0,0.01,0
+"1880","languages data communication",1,0,0.01,0
+"1881","data communication",1,0,0.01,0
+"1882","data communication skills",1,0,0.01,0
+"1883","data scientist salary",1,0,0.01,0
+"1884","scientist salary",1,0,0.01,0
+"1885","scientist salary salary",1,0,0.01,0
+"1886","salary",2,0,0.02,0
+"1887","salary salary",1,0,0.01,0
+"1888","salary salary size",1,0,0.01,0
+"1889","salary size",1,0,0.01,0
+"1890","salary size profile",1,0,0.01,0
+"1891","size",1,0,0.01,0
+"1892","size profile",1,0,0.01,0
+"1893","size profile skills",1,0,0.01,0
+"1894","profile",1,0,0.01,0
+"1895","profile skills",1,0,0.01,0
+"1896","profile skills require",1,0,0.01,0
+"1897","skills require",1,0,0.01,0
+"1898","skills require numerous",1,0,0.01,0
+"1899","require numerous",1,0,0.01,0
+"1900","require numerous similarities",1,0,0.01,0
+"1901","numerous similarities",1,0,0.01,0
+"1902","numerous similarities data",1,0,0.01,0
+"1903","similarities data scientists",1,0,0.01,0
+"1904","data scientists data",1,0,0.01,0
+"1905","scientists data",1,0,0.01,0
+"1906","scientists data analysts",1,0,0.01,0
+"1907","data analysts",1,0,0.01,0
+"1908","data analysts terms",1,0,0.01,0
+"1909","analysts",1,0,0.01,0
+"1910","analysts terms",1,0,0.01,0
+"1911","analysts terms expertise",1,0,0.01,0
+"1912","terms",2,0,0.02,0
+"1913","terms expertise",1,0,0.01,0
+"1914","terms expertise offer",1,0,0.01,0
+"1915","expertise offer",1,0,0.01,0
+"1916","expertise offer however",1,0,0.01,0
+"1917","offer",1,2,0.01,0.105263157894737
+"1918","offer however",1,0,0.01,0
+"1919","offer however yet",1,0,0.01,0
+"1920","however yet",1,0,0.01,0
+"1921","however yet many",1,0,0.01,0
+"1922","yet many",1,0,0.01,0
+"1923","yet many forget",1,0,0.01,0
+"1924","many forget",1,0,0.01,0
+"1925","many forget third",1,0,0.01,0
+"1926","forget",2,0,0.02,0
+"1927","forget third",1,0,0.01,0
+"1928","forget third layer",1,0,0.01,0
+"1929","third",2,0,0.02,0
+"1930","third layer",1,0,0.01,0
+"1931","third layer becoming",1,0,0.01,0
+"1932","layer",1,0,0.01,0
+"1933","layer becoming",1,0,0.01,0
+"1934","layer becoming quality",1,0,0.01,0
+"1935","becoming quality",1,0,0.01,0
+"1936","becoming quality data",1,0,0.01,0
+"1937","quality",1,1,0.01,0.0526315789473684
+"1938","quality data",1,0,0.01,0
+"1939","quality data scientist",1,0,0.01,0
+"1940","data scientist put",1,0,0.01,0
+"1941","scientist put",1,0,0.01,0
+"1942","scientist put finishing",1,0,0.01,0
+"1943","put",1,0,0.01,0
+"1944","put finishing",1,0,0.01,0
+"1945","put finishing touches",1,0,0.01,0
+"1946","finishing",1,0,0.01,0
+"1947","finishing touches",1,0,0.01,0
+"1948","finishing touches data",1,0,0.01,0
+"1949","touches",1,0,0.01,0
+"1950","touches data",1,0,0.01,0
+"1951","touches data science",1,0,0.01,0
+"1952","skill set understanding",1,0,0.01,0
+"1953","set understanding",1,0,0.01,0
+"1954","set understanding clear",1,0,0.01,0
+"1955","understanding clear",1,0,0.01,0
+"1956","understanding clear effective",1,0,0.01,0
+"1957","clear",1,0,0.01,0
+"1958","clear effective",1,0,0.01,0
+"1959","clear effective communication",1,0,0.01,0
+"1960","effective",1,0,0.01,0
+"1961","effective communication",1,0,0.01,0
+"1962","effective communication skills",1,0,0.01,0
+"1963","communication skills communication",1,0,0.01,0
+"1964","skills communication important",1,0,0.01,0
+"1965","communication important",1,0,0.01,0
+"1966","communication important skill",1,0,0.01,0
+"1967","important skill gets",1,0,0.01,0
+"1968","skill gets",1,0,0.01,0
+"1969","skill gets lost",1,0,0.01,0
+"1970","gets",1,0,0.01,0
+"1971","gets lost",1,0,0.01,0
+"1972","gets lost technical",1,0,0.01,0
+"1973","lost",1,0,0.01,0
+"1974","lost technical",1,0,0.01,0
+"1975","lost technical fields",1,0,0.01,0
+"1976","technical fields",1,0,0.01,0
+"1977","technical fields just",1,0,0.01,0
+"1978","fields",1,2,0.01,0.105263157894737
+"1979","fields just",1,0,0.01,0
+"1980","fields just data",1,0,0.01,0
+"1981","just data",1,0,0.01,0
+"1982","just data many",1,0,0.01,0
+"1983","data many",1,0,0.01,0
+"1984","data many articles",1,0,0.01,0
+"1985","many articles",1,0,0.01,0
+"1986","many articles skills",1,0,0.01,0
+"1987","articles skills",1,0,0.01,0
+"1988","articles skills needed",1,0,0.01,0
+"1989","skills needed",1,0,0.01,0
+"1990","skills needed data",1,0,0.01,0
+"1991","needed data",1,0,0.01,0
+"1992","needed data scientist",1,0,0.01,0
+"1993","data scientist developed",1,0,0.01,0
+"1994","scientist developed",1,0,0.01,0
+"1995","scientist developed predictive",1,0,0.01,0
+"1996","developed",2,0,0.02,0
+"1997","developed predictive",1,0,0.01,0
+"1998","developed predictive analytics",1,0,0.01,0
+"1999","predictive",1,2,0.01,0.105263157894737
+"2000","predictive analytics",1,0,0.01,0
+"2001","predictive analytics datamart",1,0,0.01,0
+"2002","analytics datamart",1,0,0.01,0
+"2003","analytics datamart used",1,0,0.01,0
+"2004","datamart",1,0,0.01,0
+"2005","datamart used",1,0,0.01,0
+"2006","datamart used data",1,0,0.01,0
+"2007","data science article",1,0,0.01,0
+"2008","science article",1,0,0.01,0
+"2009","science article d",0,0,0,0
+"2010","article d",0,0,0,0
+"2011","article d like",0,0,0,0
+"2012","d",1,0,0.01,0
+"2013","d like",1,0,0.01,0
+"2014","d like review",1,0,0.01,0
+"2015","like review",1,0,0.01,0
+"2016","like review useful",1,0,0.01,0
+"2017","review",1,0,0.01,0
+"2018","review useful",1,0,0.01,0
+"2019","review useful techniques",1,0,0.01,0
+"2020","useful",2,1,0.02,0.0526315789473684
+"2021","useful techniques",1,0,0.01,0
+"2022","useful techniques consider",1,0,0.01,0
+"2023","techniques",2,17,0.02,0.894736842105263
+"2024","techniques consider",1,0,0.01,0
+"2025","techniques consider conduct",1,0,0.01,0
+"2026","consider",1,0,0.01,0
+"2027","consider conduct",1,0,0.01,0
+"2028","consider conduct data",1,0,0.01,0
+"2029","conduct",1,1,0.01,0.0526315789473684
+"2030","conduct data",1,0,0.01,0
+"2031","conduct data science",1,0,0.01,0
+"2032","data science projects",1,0,0.01,0
+"2033","science projects",1,0,0.01,0
+"2034","science projects illustrate",1,0,0.01,0
+"2035","projects",2,0,0.02,0
+"2036","projects illustrate",1,0,0.01,0
+"2037","projects illustrate unfortunately",1,0,0.01,0
+"2038","illustrate",1,0,0.01,0
+"2039","illustrate unfortunately",1,0,0.01,0
+"2040","illustrate unfortunately life",1,0,0.01,0
+"2041","unfortunately",1,0,0.01,0
+"2042","unfortunately life",1,0,0.01,0
+"2043","unfortunately life simple",1,0,0.01,0
+"2044","life",1,0,0.01,0
+"2045","life simple",1,0,0.01,0
+"2046","life simple acknowledge",1,0,0.01,0
+"2047","simple",2,0,0.02,0
+"2048","simple acknowledge",1,0,0.01,0
+"2049","simple acknowledge hard",1,0,0.01,0
+"2050","acknowledge hard",1,0,0.01,0
+"2051","acknowledge hard yards",1,0,0.01,0
+"2052","hard",1,0,0.01,0
+"2053","hard yards",1,0,0.01,0
+"2054","hard yards build",1,0,0.01,0
+"2055","yards",1,0,0.01,0
+"2056","yards build",1,0,0.01,0
+"2057","yards build skills",1,0,0.01,0
+"2058","build skills",1,0,0.01,0
+"2059","build skills unlock",1,0,0.01,0
+"2060","skills unlock",1,0,0.01,0
+"2061","skills unlock insight",1,0,0.01,0
+"2062","unlock",1,0,0.01,0
+"2063","unlock insight",1,0,0.01,0
+"2064","unlock insight less",1,0,0.01,0
+"2065","insight",1,0,0.01,0
+"2066","insight less",1,0,0.01,0
+"2067","insight less data",1,0,0.01,0
+"2068","less",2,0,0.02,0
+"2069","less data",2,0,0.02,0
+"2070","less data ah",1,0,0.01,0
+"2071","data ah",1,0,0.01,0
+"2072","data ah forget",1,0,0.01,0
+"2073","ah",1,0,0.01,0
+"2074","ah forget",1,0,0.01,0
+"2075","ah forget something",1,0,0.01,0
+"2076","forget something",1,0,0.01,0
+"2077","forget something important",1,0,0.01,0
+"2078","something",2,0,0.02,0
+"2079","something important",1,0,0.01,0
+"2080","something important data",1,0,0.01,0
+"2081","important data",1,1,0.01,0.0526315789473684
+"2082","important data scientist",1,0,0.01,0
+"2083","data scientist someone",1,0,0.01,0
+"2084","scientist someone",1,0,0.01,0
+"2085","scientist someone holds",1,0,0.01,0
+"2086","someone",1,0,0.01,0
+"2087","someone holds",1,0,0.01,0
+"2088","someone holds great",1,0,0.01,0
+"2089","holds",1,0,0.01,0
+"2090","holds great",1,0,0.01,0
+"2091","holds great communication",1,0,0.01,0
+"2092","great",1,0,0.01,0
+"2093","great communication",1,0,0.01,0
+"2094","great communication skills",1,0,0.01,0
+"2095","communication skills business",1,0,0.01,0
+"2096","skills business",1,0,0.01,0
+"2097","skills business mindset",1,0,0.01,0
+"2098","business mindset",1,0,0.01,0
+"2099","business mindset proactivity",1,0,0.01,0
+"2100","mindset",2,0,0.02,0
+"2101","mindset proactivity",1,0,0.01,0
+"2102","mindset proactivity almost",1,0,0.01,0
+"2103","proactivity",1,0,0.01,0
+"2104","proactivity almost",1,0,0.01,0
+"2105","proactivity almost techniques",1,0,0.01,0
+"2106","almost",1,0,0.01,0
+"2107","almost techniques",1,0,0.01,0
+"2108","almost techniques modern",1,0,0.01,0
+"2109","techniques modern",1,0,0.01,0
+"2110","techniques modern data",1,0,0.01,0
+"2111","modern data",1,0,0.01,0
+"2112","modern data science",1,0,0.01,0
+"2113","data science including",1,0,0.01,0
+"2114","science including",1,0,0.01,0
+"2115","science including machine",1,0,0.01,0
+"2116","machine learning inquisitive",1,0,0.01,0
+"2117","learning inquisitive",1,0,0.01,0
+"2118","learning inquisitive mindset",1,0,0.01,0
+"2119","inquisitive",1,0,0.01,0
+"2120","inquisitive mindset",1,0,0.01,0
+"2121","inquisitive mindset data",1,0,0.01,0
+"2122","mindset data",1,0,0.01,0
+"2123","mindset data function",1,0,0.01,0
+"2124","data function",1,0,0.01,0
+"2125","data function top",1,0,0.01,0
+"2126","function",1,0,0.01,0
+"2127","function top",1,0,0.01,0
+"2128","function top data",1,0,0.01,0
+"2129","top data",2,0,0.02,0
+"2130","top data scientist",1,0,0.01,0
+"2131","data scientist projections",1,0,0.01,0
+"2132","scientist projections",1,0,0.01,0
+"2133","scientist projections math",1,0,0.01,0
+"2134","projections",1,0,0.01,0
+"2135","projections math",1,0,0.01,0
+"2136","projections math skills",1,0,0.01,0
+"2137","math",1,0,0.01,0
+"2138","math skills",1,0,0.01,0
+"2139","math skills required",1,0,0.01,0
+"2140","required data science",1,0,0.01,0
+"2141","data science can",2,0,0.02,0
+"2142","science can",2,0,0.02,0
+"2143","science can significantly",1,0,0.01,0
+"2144","can significantly",1,0,0.01,0
+"2145","can significantly different",1,0,0.01,0
+"2146","significantly",1,0,0.01,0
+"2147","significantly different",1,0,0.01,0
+"2148","significantly different theoretical",1,0,0.01,0
+"2149","different theoretical",1,0,0.01,0
+"2150","different theoretical foundations",1,0,0.01,0
+"2151","theoretical",1,0,0.01,0
+"2152","theoretical foundations",1,0,0.01,0
+"2153","theoretical foundations data",1,0,0.01,0
+"2154","foundations data science",1,0,0.01,0
+"2155","data science care",1,0,0.01,0
+"2156","science care",1,0,0.01,0
+"2157","science care simply",1,0,0.01,0
+"2158","care",1,0,0.01,0
+"2159","care simply",1,0,0.01,0
+"2160","care simply focus",1,0,0.01,0
+"2161","simply",1,0,0.01,0
+"2162","simply focus",1,0,0.01,0
+"2163","simply focus hands",1,0,0.01,0
+"2164","focus",1,0,0.01,0
+"2165","focus hands",1,0,0.01,0
+"2166","focus hands skills",1,0,0.01,0
+"2167","hands",1,1,0.01,0.0526315789473684
+"2168","hands skills",1,0,0.01,0
+"2169","hands skills statistics",1,0,0.01,0
+"2170","skills statistics probability",1,0,0.01,0
+"2171","statistics probability",1,0,0.01,0
+"2172","statistics probability ii",1,0,0.01,0
+"2173","probability",1,4,0.01,0.210526315789474
+"2174","probability ii",1,0,0.01,0
+"2175","probability ii multivariable",1,0,0.01,0
+"2176","ii",1,0,0.01,0
+"2177","ii multivariable",1,0,0.01,0
+"2178","ii multivariable calculus",1,0,0.01,0
+"2179","multivariable",1,0,0.01,0
+"2180","multivariable calculus",1,0,0.01,0
+"2181","multivariable calculus iii",1,0,0.01,0
+"2182","calculus iii",1,0,0.01,0
+"2183","calculus iii linear",1,0,0.01,0
+"2184","iii",1,0,0.01,0
+"2185","iii linear",1,0,0.01,0
+"2186","iii linear aws",1,0,0.01,0
+"2187","linear aws",1,0,0.01,0
+"2188","linear aws pioneer",1,0,0.01,0
+"2189","aws",1,0,0.01,0
+"2190","aws pioneer",1,0,0.01,0
+"2191","aws pioneer cloud",1,0,0.01,0
+"2192","pioneer",1,0,0.01,0
+"2193","pioneer cloud",1,0,0.01,0
+"2194","pioneer cloud computing",1,0,0.01,0
+"2195","cloud",2,0,0.02,0
+"2196","cloud computing",1,0,0.01,0
+"2197","cloud computing vibrant",1,0,0.01,0
+"2198","computing",1,1,0.01,0.0526315789473684
+"2199","computing vibrant",1,0,0.01,0
+"2200","computing vibrant tool",1,0,0.01,0
+"2201","vibrant",1,0,0.01,0
+"2202","vibrant tool",1,0,0.01,0
+"2203","vibrant tool data",1,0,0.01,0
+"2204","tool",1,0,0.01,0
+"2205","tool data",1,0,0.01,0
+"2206","tool data scientists",1,0,0.01,0
+"2207","data scientists elastic",1,0,0.01,0
+"2208","scientists elastic",1,0,0.01,0
+"2209","scientists elastic compute",1,0,0.01,0
+"2210","elastic",1,0,0.01,0
+"2211","elastic compute",1,0,0.01,0
+"2212","elastic compute cloud",1,0,0.01,0
+"2213","compute",1,0,0.01,0
+"2214","compute cloud",1,0,0.01,0
+"2215","compute cloud ec",1,0,0.01,0
+"2216","cloud ec",1,0,0.01,0
+"2217","cloud ec simple",1,0,0.01,0
+"2218","ec",1,0,0.01,0
+"2219","ec simple",1,0,0.01,0
+"2220","ec simple storage",1,0,0.01,0
+"2221","simple storage",1,0,0.01,0
+"2222","simple storage service",1,0,0.01,0
+"2223","storage",1,1,0.01,0.0526315789473684
+"2224","storage service",1,0,0.01,0
+"2225","storage service s",1,0,0.01,0
+"2226","service",1,1,0.01,0.0526315789473684
+"2227","service s",1,0,0.01,0
+"2228","service s relational",1,0,0.01,0
+"2229","s relational",1,0,0.01,0
+"2230","s relational database",1,0,0.01,0
+"2231","relational database required",1,0,0.01,0
+"2232","database required",1,0,0.01,0
+"2233","database required data",1,0,0.01,0
+"2234","data scientist relatively",1,0,0.01,0
+"2235","scientist relatively",1,0,0.01,0
+"2236","scientist relatively strong",1,0,0.01,0
+"2237","relatively",1,0,0.01,0
+"2238","relatively strong",1,0,0.01,0
+"2239","relatively strong engineering",1,0,0.01,0
+"2240","strong engineering",1,0,0.01,0
+"2241","strong engineering skill",1,0,0.01,0
+"2242","engineering skill",1,0,0.01,0
+"2243","engineering skill top",1,0,0.01,0
+"2244","skill top",1,0,0.01,0
+"2245","skill top skills",1,0,0.01,0
+"2246","top skills tools",1,0,0.01,0
+"2247","skills tools",1,0,0.01,0
+"2248","skills tools ml",1,0,0.01,0
+"2249","tools ml",1,0,0.01,0
+"2250","tools ml data",1,0,0.01,0
+"2251","ml data",1,0,0.01,0
+"2252","ml data science",1,0,0.01,0
+"2253","data science developed",1,0,0.01,0
+"2254","science developed",1,0,0.01,0
+"2255","science developed quickly",1,0,0.01,0
+"2256","developed quickly",1,0,0.01,0
+"2257","developed quickly according",1,0,0.01,0
+"2258","quickly",1,0,0.01,0
+"2259","quickly according",1,0,0.01,0
+"2260","quickly according study",1,0,0.01,0
+"2261","according",1,0,0.01,0
+"2262","according study",1,0,0.01,0
+"2263","according study less",1,0,0.01,0
+"2264","study",1,0,0.01,0
+"2265","study less",1,0,0.01,0
+"2266","study less data",1,0,0.01,0
+"2267","less data scientists",1,0,0.01,0
+"2268","data scientists ml",1,0,0.01,0
+"2269","scientists ml",1,0,0.01,0
+"2270","scientists ml engineers",1,0,0.01,0
+"2271","ml engineers",1,0,0.01,0
+"2272","ml engineers since",1,0,0.01,0
+"2273","engineers",1,0,0.01,0
+"2274","engineers since",1,0,0.01,0
+"2275","engineers since skill",1,0,0.01,0
+"2276","since",1,1,0.01,0.0526315789473684
+"2277","since skill",1,0,0.01,0
+"2278","since skill sets",1,0,0.01,0
+"2279","skill sets data",1,0,0.01,0
+"2280","sets data",1,0,0.01,0
+"2281","sets data science",1,0,0.01,0
+"2282","data science commonly",1,0,0.01,0
+"2283","science commonly",1,0,0.01,0
+"2284","science commonly categorized",1,0,0.01,0
+"2285","commonly",1,0,0.01,0
+"2286","commonly categorized",1,0,0.01,0
+"2287","commonly categorized main",1,0,0.01,0
+"2288","categorized",1,0,0.01,0
+"2289","categorized main",1,0,0.01,0
+"2290","categorized main field",1,0,0.01,0
+"2291","main field",1,0,0.01,0
+"2292","main field data",1,0,0.01,0
+"2293","field data",1,1,0.01,0.0526315789473684
+"2294","field data science",1,0,0.01,0
+"2295","data science domain",1,0,0.01,0
+"2296","science domain",1,0,0.01,0
+"2297","science domain knowledge",1,0,0.01,0
+"2298","domain knowledge",1,0,0.01,0
+"2299","domain knowledge often",1,0,0.01,0
+"2300","knowledge often",1,0,0.01,0
+"2301","knowledge often overlooked",1,0,0.01,0
+"2302","often overlooked",1,0,0.01,0
+"2303","often overlooked perhaps",1,0,0.01,0
+"2304","overlooked",1,0,0.01,0
+"2305","overlooked perhaps",1,0,0.01,0
+"2306","overlooked perhaps s",0,0,0,0
+"2307","perhaps",1,0,0.01,0
+"2308","perhaps s",0,0,0,0
+"2309","perhaps s important",0,0,0,0
+"2310","s important",1,0,0.01,0
+"2311","s important skill",1,0,0.01,0
+"2312","skill data scientists",1,0,0.01,0
+"2313","data scientists picking",1,0,0.01,0
+"2314","scientists picking",1,0,0.01,0
+"2315","scientists picking skills",1,0,0.01,0
+"2316","picking",1,0,0.01,0
+"2317","picking skills",1,0,0.01,0
+"2318","picking skills era",1,0,0.01,0
+"2319","skills era",1,0,0.01,0
+"2320","skills era compressing",1,0,0.01,0
+"2321","era",1,0,0.01,0
+"2322","era compressing",1,0,0.01,0
+"2323","era compressing technology",1,0,0.01,0
+"2324","compressing",1,0,0.01,0
+"2325","compressing technology",1,0,0.01,0
+"2326","compressing technology waves",1,0,0.01,0
+"2327","technology",2,0,0.02,0
+"2328","technology waves",1,0,0.01,0
+"2329","technology waves field",1,0,0.01,0
+"2330","waves",1,0,0.01,0
+"2331","waves field",1,0,0.01,0
+"2332","waves field artificial",1,0,0.01,0
+"2333","field artificial",1,0,0.01,0
+"2334","field artificial intelligence",1,0,0.01,0
+"2335","artificial",1,0,0.01,0
+"2336","artificial intelligence",1,0,0.01,0
+"2337","artificial intelligence ai",1,0,0.01,0
+"2338","intelligence",1,1,0.01,0.0526315789473684
+"2339","intelligence ai",1,0,0.01,0
+"2340","intelligence ai progressing",1,0,0.01,0
+"2341","ai progressing",1,0,0.01,0
+"2342","ai progressing fast",1,0,0.01,0
+"2343","progressing",1,0,0.01,0
+"2344","progressing fast",1,0,0.01,0
+"2345","progressing fast list",1,0,0.01,0
+"2346","fast",1,0,0.01,0
+"2347","fast list",1,0,0.01,0
+"2348","fast list data",1,0,0.01,0
+"2349","list data",1,0,0.01,0
+"2350","list data science",1,0,0.01,0
+"2351","science skill sets",1,0,0.01,0
+"2352","skill sets however",1,0,0.01,0
+"2353","sets however",1,0,0.01,0
+"2354","sets however many",1,0,0.01,0
+"2355","however many",2,0,0.02,0
+"2356","however many problems",1,0,0.01,0
+"2357","many problems",1,0,0.01,0
+"2358","many problems happen",1,0,0.01,0
+"2359","problems",1,1,0.01,0.0526315789473684
+"2360","problems happen",1,0,0.01,0
+"2361","problems happen data",1,0,0.01,0
+"2362","happen",1,0,0.01,0
+"2363","happen data",1,0,0.01,0
+"2364","happen data science",1,0,0.01,0
+"2365","data science process",1,0,0.01,0
+"2366","science process",1,0,0.01,0
+"2367","science process easily",1,0,0.01,0
+"2368","process",2,0,0.02,0
+"2369","process easily",1,0,0.01,0
+"2370","process easily detectable",1,0,0.01,0
+"2371","easily",1,0,0.01,0
+"2372","easily detectable",1,0,0.01,0
+"2373","easily detectable functional",1,0,0.01,0
+"2374","detectable",1,0,0.01,0
+"2375","detectable functional",1,0,0.01,0
+"2376","detectable functional error",1,0,0.01,0
+"2377","functional",1,0,0.01,0
+"2378","functional error",1,0,0.01,0
+"2379","functional error crashes",1,0,0.01,0
+"2380","error",1,0,0.01,0
+"2381","error crashes",1,0,0.01,0
+"2382","error crashes program",1,0,0.01,0
+"2383","crashes",1,0,0.01,0
+"2384","crashes program",1,0,0.01,0
+"2385","crashes program technical",1,0,0.01,0
+"2386","program",1,3,0.01,0.157894736842105
+"2387","program technical",1,0,0.01,0
+"2388","program technical skills",1,0,0.01,0
+"2389","technical skills programming",1,0,0.01,0
+"2390","skills programming",1,0,0.01,0
+"2391","skills programming languages",1,0,0.01,0
+"2392","programming languages mentioned",1,0,0.01,0
+"2393","languages mentioned",1,0,0.01,0
+"2394","languages mentioned data",1,0,0.01,0
+"2395","mentioned",1,0,0.01,0
+"2396","mentioned data",1,0,0.01,0
+"2397","mentioned data scientist",1,0,0.01,0
+"2398","scientist job ads",1,0,0.01,0
+"2399","job ads",1,0,0.01,0
+"2400","job ads include",1,0,0.01,0
+"2401","ads",1,0,0.01,0
+"2402","ads include",1,0,0.01,0
+"2403","ads include following",1,0,0.01,0
+"2404","include following",1,0,0.01,0
+"2405","include following python",1,0,0.01,0
+"2406","following",1,0,0.01,0
+"2407","following python",1,0,0.01,0
+"2408","following python r",1,0,0.01,0
+"2409","python r matlab",1,0,0.01,0
+"2410","r matlab",1,0,0.01,0
+"2411","r matlab hadoop",1,0,0.01,0
+"2412","matlab",1,0,0.01,0
+"2413","matlab hadoop",1,0,0.01,0
+"2414","matlab hadoop sas",1,0,0.01,0
+"2415","hadoop sas",1,0,0.01,0
+"2416","hadoop sas sql",1,0,0.01,0
+"2417","sas",1,0,0.01,0
+"2418","sas sql",1,0,0.01,0
+"2419","sas sql tableau",1,0,0.01,0
+"2420","sql tableau",1,0,0.01,0
+"2421","sql tableau scope",1,0,0.01,0
+"2422","tableau",1,0,0.01,0
+"2423","tableau scope",1,0,0.01,0
+"2424","tableau scope role",1,0,0.01,0
+"2425","scope",1,0,0.01,0
+"2426","scope role",1,0,0.01,0
+"2427","scope role skills",1,0,0.01,0
+"2428","role skills",1,0,0.01,0
+"2429","role skills required",1,0,0.01,0
+"2430","skills required business",1,0,0.01,0
+"2431","required business",1,0,0.01,0
+"2432","required business problem",1,0,0.01,0
+"2433","business problem data",1,0,0.01,0
+"2434","problem data",1,0,0.01,0
+"2435","problem data collection",1,0,0.01,0
+"2436","data collection",1,2,0.01,0.105263157894737
+"2437","data collection identification",1,0,0.01,0
+"2438","collection",1,2,0.01,0.105263157894737
+"2439","collection identification",1,0,0.01,0
+"2440","collection identification data",1,0,0.01,0
+"2441","identification",1,0,0.01,0
+"2442","identification data",1,0,0.01,0
+"2443","identification data exploration",1,0,0.01,0
+"2444","data exploration",1,0,0.01,0
+"2445","data exploration analysis",1,0,0.01,0
+"2446","exploration",1,0,0.01,0
+"2447","exploration analysis",1,0,0.01,0
+"2448","exploration analysis machine",1,0,0.01,0
+"2449","analysis machine",1,0,0.01,0
+"2450","analysis machine learning",1,0,0.01,0
+"2451","learning model analysis",1,0,0.01,0
+"2452","model analysis",1,0,0.01,0
+"2453","model analysis cons",1,0,0.01,0
+"2454","analysis cons",1,0,0.01,0
+"2455","analysis cons courses",1,0,0.01,0
+"2456","cons",1,0,0.01,0
+"2457","cons courses",1,0,0.01,0
+"2458","cons courses tend",1,0,0.01,0
+"2459","courses tend",1,0,0.01,0
+"2460","courses tend geared",1,0,0.01,0
+"2461","tend",1,0,0.01,0
+"2462","tend geared",1,0,0.01,0
+"2463","tend geared mostly",1,0,0.01,0
+"2464","geared",1,0,0.01,0
+"2465","geared mostly",1,0,0.01,0
+"2466","geared mostly towards",1,0,0.01,0
+"2467","mostly",1,0,0.01,0
+"2468","mostly towards",1,0,0.01,0
+"2469","mostly towards beginners",1,0,0.01,0
+"2470","towards beginners",1,0,0.01,0
+"2471","towards beginners ton",1,0,0.01,0
+"2472","beginners",1,0,0.01,0
+"2473","beginners ton",1,0,0.01,0
+"2474","beginners ton courses",1,0,0.01,0
+"2475","ton",1,0,0.01,0
+"2476","ton courses",1,0,0.01,0
+"2477","ton courses advanced",1,0,0.01,0
+"2478","courses advanced",1,0,0.01,0
+"2479","courses advanced data",1,0,0.01,0
+"2480","advanced data",1,0,0.01,0
+"2481","advanced data scientists",1,0,0.01,0
+"2482","data scientists also",1,0,0.01,0
+"2483","scientists also",1,0,0.01,0
+"2484","scientists also lack",1,0,0.01,0
+"2485","also lack",1,0,0.01,0
+"2486","also lack discussing",1,0,0.01,0
+"2487","lack",1,0,0.01,0
+"2488","lack discussing",1,0,0.01,0
+"2489","lack discussing detail",1,0,0.01,0
+"2490","discussing",1,0,0.01,0
+"2491","discussing detail",1,0,0.01,0
+"2492","discussing detail skills",1,0,0.01,0
+"2493","detail skills",1,0,0.01,0
+"2494","detail skills concepts",1,0,0.01,0
+"2495","skills concepts",1,0,0.01,0
+"2496","skills concepts similarities",1,0,0.01,0
+"2497","concepts",1,4,0.01,0.210526315789474
+"2498","concepts similarities",1,0,0.01,0
+"2499","concepts similarities differences",1,0,0.01,0
+"2500","similarities differences",1,0,0.01,0
+"2501","similarities differences two",1,0,0.01,0
+"2502","differences two",1,0,0.01,0
+"2503","differences two positions",1,0,0.01,0
+"2504","two positions",1,0,0.01,0
+"2505","two positions please",1,0,0.01,0
+"2506","positions",2,0,0.02,0
+"2507","positions please",1,0,0.01,0
+"2508","positions please read",1,0,0.01,0
+"2509","please",1,0,0.01,0
+"2510","please read",1,0,0.01,0
+"2511","please read discussion",1,0,0.01,0
+"2512","read discussion",1,0,0.01,0
+"2513","read discussion data",1,0,0.01,0
+"2514","discussion",1,0,0.01,0
+"2515","discussion data",1,0,0.01,0
+"2516","discussion data science",1,0,0.01,0
+"2517","data science time",1,0,0.01,0
+"2518","science time",1,0,0.01,0
+"2519","science time thought",1,0,0.01,0
+"2520","time thought",1,0,0.01,0
+"2521","time thought top",1,0,0.01,0
+"2522","thought",1,0,0.01,0
+"2523","thought top",1,0,0.01,0
+"2524","thought top data",1,0,0.01,0
+"2525","top data science",1,0,0.01,0
+"2526","data science consultant",1,0,0.01,0
+"2527","science consultant",1,0,0.01,0
+"2528","science consultant excellent",1,0,0.01,0
+"2529","consultant",1,0,0.01,0
+"2530","consultant excellent",1,0,0.01,0
+"2531","consultant excellent core",1,0,0.01,0
+"2532","excellent",2,0,0.02,0
+"2533","excellent core",1,0,0.01,0
+"2534","excellent core tech",1,0,0.01,0
+"2535","core tech",1,0,0.01,0
+"2536","core tech skills",1,0,0.01,0
+"2537","tech skills like",1,0,0.01,0
+"2538","skills like machine",1,0,0.01,0
+"2539","like machine",1,0,0.01,0
+"2540","like machine learning",1,0,0.01,0
+"2541","machine learning data",1,1,0.01,0.0526315789473684
+"2542","learning data",1,1,0.01,0.0526315789473684
+"2543","learning data similarities",1,0,0.01,0
+"2544","data similarities",1,0,0.01,0
+"2545","data similarities data",1,0,0.01,0
+"2546","data science software",1,0,0.01,0
+"2547","science software",1,0,0.01,0
+"2548","science software engineering",1,0,0.01,0
+"2549","software",2,4,0.02,0.210526315789474
+"2550","software engineering",2,0,0.02,0
+"2551","software engineering python",1,0,0.01,0
+"2552","engineering python",1,0,0.01,0
+"2553","engineering python main",1,0,0.01,0
+"2554","python main skills",1,0,0.01,0
+"2555","main skills data",1,0,0.01,0
+"2556","scientist include limited",1,0,0.01,0
+"2557","include limited",1,0,0.01,0
+"2558","include limited skills",1,0,0.01,0
+"2559","limited",1,0,0.01,0
+"2560","limited skills",1,0,0.01,0
+"2561","limited skills college",1,0,0.01,0
+"2562","skills college",1,0,0.01,0
+"2563","skills college degree",1,0,0.01,0
+"2564","college",1,0,0.01,0
+"2565","college degree",1,0,0.01,0
+"2566","college degree data",1,0,0.01,0
+"2567","degree",1,0,0.01,0
+"2568","degree data",1,0,0.01,0
+"2569","degree data science",1,0,0.01,0
+"2570","data science makes",1,0,0.01,0
+"2571","science makes",1,0,0.01,0
+"2572","science makes difficult",1,0,0.01,0
+"2573","makes",2,0,0.02,0
+"2574","makes difficult",1,0,0.01,0
+"2575","makes difficult convince",1,0,0.01,0
+"2576","difficult",2,0,0.02,0
+"2577","difficult convince",1,0,0.01,0
+"2578","difficult convince others",1,0,0.01,0
+"2579","convince",1,0,0.01,0
+"2580","convince others",1,0,0.01,0
+"2581","convince others skills",1,0,0.01,0
+"2582","others",1,0,0.01,0
+"2583","others skills",1,0,0.01,0
+"2584","others skills job",1,0,0.01,0
+"2585","skills job",1,0,0.01,0
+"2586","skills job experience",1,0,0.01,0
+"2587","job experience",1,0,0.01,0
+"2588","job experience makes",1,0,0.01,0
+"2589","experience",1,0,0.01,0
+"2590","experience makes",1,0,0.01,0
+"2591","experience makes even",1,0,0.01,0
+"2592","makes even",1,0,0.01,0
+"2593","makes even difficult",1,0,0.01,0
+"2594","even",1,0,0.01,0
+"2595","even difficult",1,0,0.01,0
+"2596","even difficult third",1,0,0.01,0
+"2597","difficult third",1,0,0.01,0
+"2598","difficult third article",1,0,0.01,0
+"2599","third article",1,0,0.01,0
+"2600","third article looking",1,0,0.01,0
+"2601","article looking",1,0,0.01,0
+"2602","article looking technology",1,0,0.01,0
+"2603","looking technology",1,0,0.01,0
+"2604","looking technology skills",1,0,0.01,0
+"2605","technology skills",1,0,0.01,0
+"2606","technology skills data",1,0,0.01,0
+"2607","skills data intensive",1,0,0.01,0
+"2608","data intensive",1,0,0.01,0
+"2609","data intensive positions",1,0,0.01,0
+"2610","intensive",1,0,0.01,0
+"2611","intensive positions",1,0,0.01,0
+"2612","intensive positions see",1,0,0.01,0
+"2613","positions see",1,0,0.01,0
+"2614","positions see previous",1,0,0.01,0
+"2615","see previous",1,0,0.01,0
+"2616","see previous articles",1,0,0.01,0
+"2617","previous",1,1,0.01,0.0526315789473684
+"2618","previous articles",1,0,0.01,0
+"2619","previous articles data",1,0,0.01,0
+"2620","articles data",1,0,0.01,0
+"2621","articles data scientists",1,0,0.01,0
+"2622","data scientists scraped",1,0,0.01,0
+"2623","scientists scraped",1,0,0.01,0
+"2624","scientists scraped information",1,0,0.01,0
+"2625","scraped",1,0,0.01,0
+"2626","scraped information",1,0,0.01,0
+"2627","scraped information regardless",1,0,0.01,0
+"2628","information",1,12,0.01,0.631578947368421
+"2629","information regardless",1,0,0.01,0
+"2630","information regardless whether",1,0,0.01,0
+"2631","regardless",1,0,0.01,0
+"2632","regardless whether",1,0,0.01,0
+"2633","regardless whether currently",1,0,0.01,0
+"2634","whether",1,0,0.01,0
+"2635","whether currently",1,0,0.01,0
+"2636","whether currently data",1,0,0.01,0
+"2637","currently",1,1,0.01,0.0526315789473684
+"2638","currently data",1,0,0.01,0
+"2639","currently data scientist",1,0,0.01,0
+"2640","data scientist always",1,0,0.01,0
+"2641","scientist always",1,0,0.01,0
+"2642","scientist always room",1,0,0.01,0
+"2643","always room",1,0,0.01,0
+"2644","always room one",1,0,0.01,0
+"2645","room",1,0,0.01,0
+"2646","room one",1,0,0.01,0
+"2647","room one urge",1,0,0.01,0
+"2648","one urge",1,0,0.01,0
+"2649","one urge learn",1,0,0.01,0
+"2650","urge",1,0,0.01,0
+"2651","urge learn",1,0,0.01,0
+"2652","urge learn new",1,0,0.01,0
+"2653","learn new",1,0,0.01,0
+"2654","learn new skills",1,0,0.01,0
+"2655","new",1,2,0.01,0.105263157894737
+"2656","new skills",1,0,0.01,0
+"2657","new skills many",1,0,0.01,0
+"2658","skills many",1,0,0.01,0
+"2659","skills many young",1,0,0.01,0
+"2660","many young",1,0,0.01,0
+"2661","many young folks",1,0,0.01,0
+"2662","young",1,0,0.01,0
+"2663","young folks",1,0,0.01,0
+"2664","young folks important",1,0,0.01,0
+"2665","folks important",1,0,0.01,0
+"2666","folks important thing",1,0,0.01,0
+"2667","important thing",1,0,0.01,0
+"2668","important thing got",1,0,0.01,0
+"2669","thing",1,0,0.01,0
+"2670","thing got",1,0,0.01,0
+"2671","thing got skills",1,0,0.01,0
+"2672","got skills",1,0,0.01,0
+"2673","got skills data",1,0,0.01,0
+"2674","data scientist find",1,0,0.01,0
+"2675","scientist find",1,0,0.01,0
+"2676","scientist find job",1,0,0.01,0
+"2677","find",2,1,0.02,0.0526315789473684
+"2678","find job",1,0,0.01,0
+"2679","find job start",1,0,0.01,0
+"2680","job start",1,0,0.01,0
+"2681","job start career",1,0,0.01,0
+"2682","start career",1,0,0.01,0
+"2683","start career data",1,0,0.01,0
+"2684","career data",1,0,0.01,0
+"2685","career data science",1,0,0.01,0
+"2686","data science sure",1,0,0.01,0
+"2687","science sure",1,0,0.01,0
+"2688","science sure s",0,0,0,0
+"2689","sure",1,0,0.01,0
+"2690","sure s",0,0,0,0
+"2691","sure s primarily",0,0,0,0
+"2692","s primarily",1,0,0.01,0
+"2693","s primarily driven",1,0,0.01,0
+"2694","primarily",1,0,0.01,0
+"2695","primarily driven",1,0,0.01,0
+"2696","primarily driven amount",1,0,0.01,0
+"2697","driven",1,1,0.01,0.0526315789473684
+"2698","driven amount",1,0,0.01,0
+"2699","driven amount hype",1,0,0.01,0
+"2700","amount",1,0,0.01,0
+"2701","amount hype",1,0,0.01,0
+"2702","amount hype domain",1,0,0.01,0
+"2703","hype domain",1,0,0.01,0
+"2704","hype domain received",1,0,0.01,0
+"2705","domain received",1,0,0.01,0
+"2706","domain received past",1,0,0.01,0
+"2707","received",1,0,0.01,0
+"2708","received past",1,0,0.01,0
+"2709","received past starting",1,0,0.01,0
+"2710","past",1,0,0.01,0
+"2711","past starting",1,0,0.01,0
+"2712","past starting hbr's",1,0,0.01,0
+"2713","starting",1,0,0.01,0
+"2714","starting hbr's",1,0,0.01,0
+"2715","starting hbr's data",1,0,0.01,0
+"2716","hbr's",1,0,0.01,0
+"2717","hbr's data",1,0,0.01,0
+"2718","hbr's data scientist",1,0,0.01,0
+"2719","data scientist sexiest",1,0,0.01,0
+"2720","scientist sexiest",1,0,0.01,0
+"2721","scientist sexiest job",1,0,0.01,0
+"2722","sexiest",1,0,0.01,0
+"2723","sexiest job",1,0,0.01,0
+"2724","sexiest job one",1,0,0.01,0
+"2725","job one",1,0,0.01,0
+"2726","job one first",1,0,0.01,0
+"2727","one first",1,0,0.01,0
+"2728","one first tasks",1,0,0.01,0
+"2729","first tasks",1,0,0.01,0
+"2730","first tasks given",1,0,0.01,0
+"2731","tasks",1,0,0.01,0
+"2732","tasks given",1,0,0.01,0
+"2733","tasks given job",1,0,0.01,0
+"2734","given job",1,0,0.01,0
+"2735","given job data",1,0,0.01,0
+"2736","job data",1,0,0.01,0
+"2737","job data scientist",1,0,0.01,0
+"2738","data scientist involved",1,0,0.01,0
+"2739","scientist involved",1,0,0.01,0
+"2740","scientist involved web",1,0,0.01,0
+"2741","involved",1,0,0.01,0
+"2742","involved web",1,0,0.01,0
+"2743","involved web scraping",1,0,0.01,0
+"2744","web",1,0,0.01,0
+"2745","web scraping",1,0,0.01,0
+"2746","web scraping completely",1,0,0.01,0
+"2747","scraping",1,0,0.01,0
+"2748","scraping completely",1,0,0.01,0
+"2749","scraping completely alien",1,0,0.01,0
+"2750","completely",1,0,0.01,0
+"2751","completely alien",1,0,0.01,0
+"2752","completely alien concept",1,0,0.01,0
+"2753","alien",1,0,0.01,0
+"2754","alien concept",1,0,0.01,0
+"2755","alien concept time",1,0,0.01,0
+"2756","concept",1,0,0.01,0
+"2757","concept time",1,0,0.01,0
+"2758","concept time gathering",1,0,0.01,0
+"2759","time gathering",1,0,0.01,0
+"2760","time gathering data",1,0,0.01,0
+"2761","gathering",1,2,0.01,0.105263157894737
+"2762","gathering data",1,0,0.01,0
+"2763","gathering data data",1,0,0.01,0
+"2764","data data science",1,0,0.01,0
+"2765","data science exciting",1,0,0.01,0
+"2766","science exciting",1,0,0.01,0
+"2767","science exciting rewarding",1,0,0.01,0
+"2768","exciting",1,0,0.01,0
+"2769","exciting rewarding",1,0,0.01,0
+"2770","exciting rewarding fun",1,0,0.01,0
+"2771","rewarding",1,0,0.01,0
+"2772","rewarding fun",1,0,0.01,0
+"2773","rewarding fun however",1,0,0.01,0
+"2774","fun",1,0,0.01,0
+"2775","fun however",1,0,0.01,0
+"2776","fun however many",1,0,0.01,0
+"2777","however many people",1,0,0.01,0
+"2778","many people",1,0,0.01,0
+"2779","many people find",1,0,0.01,0
+"2780","people find",1,0,0.01,0
+"2781","people find learning",1,0,0.01,0
+"2782","find learning",1,0,0.01,0
+"2783","find learning process",1,0,0.01,0
+"2784","learning process",1,0,0.01,0
+"2785","learning process overwhelming",1,0,0.01,0
+"2786","process overwhelming",1,0,0.01,0
+"2787","process overwhelming jobs",1,0,0.01,0
+"2788","overwhelming",1,0,0.01,0
+"2789","overwhelming jobs",1,0,0.01,0
+"2790","overwhelming jobs expected",1,0,0.01,0
+"2791","jobs",1,0,0.01,0
+"2792","jobs expected",1,0,0.01,0
+"2793","jobs expected require",1,0,0.01,0
+"2794","expected require",1,0,0.01,0
+"2795","expected require take",1,0,0.01,0
+"2796","require take",1,0,0.01,0
+"2797","require take deep",1,0,0.01,0
+"2798","take",2,0,0.02,0
+"2799","take deep",1,0,0.01,0
+"2800","take deep dive",1,0,0.01,0
+"2801","deep",1,1,0.01,0.0526315789473684
+"2802","deep dive",1,0,0.01,0
+"2803","deep dive big",1,0,0.01,0
+"2804","dive",1,0,0.01,0
+"2805","dive big",1,0,0.01,0
+"2806","dive big sea",1,0,0.01,0
+"2807","big sea",1,0,0.01,0
+"2808","big sea data",1,0,0.01,0
+"2809","sea",1,0,0.01,0
+"2810","sea data",1,0,0.01,0
+"2811","sea data science",1,0,0.01,0
+"2812","data science need",1,0,0.01,0
+"2813","science need",1,0,0.01,0
+"2814","science need familiarize",1,0,0.01,0
+"2815","need familiarize",1,0,0.01,0
+"2816","need familiarize basics",1,0,0.01,0
+"2817","familiarize",1,0,0.01,0
+"2818","familiarize basics",1,0,0.01,0
+"2819","familiarize basics first",1,0,0.01,0
+"2820","basics",1,2,0.01,0.105263157894737
+"2821","basics first",1,0,0.01,0
+"2822","basics first important",1,0,0.01,0
+"2823","first important",1,0,0.01,0
+"2824","first important skills",1,0,0.01,0
+"2825","important skills need",1,0,0.01,0
+"2826","skills need r",1,0,0.01,0
+"2827","need r",1,0,0.01,0
+"2828","need r python",1,0,0.01,0
+"2829","r python sql",1,0,0.01,0
+"2830","python sql",1,0,0.01,0
+"2831","python sql machine",1,0,0.01,0
+"2832","sql machine",1,0,0.01,0
+"2833","sql machine learning",1,0,0.01,0
+"2834","machine learning long",1,0,0.01,0
+"2835","learning long",1,0,0.01,0
+"2836","learning long time",1,0,0.01,0
+"2837","long time",1,0,0.01,0
+"2838","long time standard",1,0,0.01,0
+"2839","time standard",1,0,0.01,0
+"2840","time standard job",1,0,0.01,0
+"2841","standard",1,0,0.01,0
+"2842","standard job",1,0,0.01,0
+"2843","standard job description",1,0,0.01,0
+"2844","job description",1,0,0.01,0
+"2845","job description data",1,0,0.01,0
+"2846","description",1,0,0.01,0
+"2847","description data",1,0,0.01,0
+"2848","description data scientist",1,0,0.01,0
+"2849","data scientist field",1,0,0.01,0
+"2850","scientist field",1,0,0.01,0
+"2851","scientist field evolving",1,0,0.01,0
+"2852","field evolving",1,0,0.01,0
+"2853","field evolving options",1,0,0.01,0
+"2854","evolving",1,0,0.01,0
+"2855","evolving options",1,0,0.01,0
+"2856","evolving options related",1,0,0.01,0
+"2857","options",1,0,0.01,0
+"2858","options related",1,0,0.01,0
+"2859","options related data",1,0,0.01,0
+"2860","related",3,2,0.03,0.105263157894737
+"2861","related data",1,0,0.01,0
+"2862","related data science",1,0,0.01,0
+"2863","science can explore",1,0,0.01,0
+"2864","can explore",1,0,0.01,0
+"2865","can explore ve",0,0,0,0
+"2866","explore",1,0,0.01,0
+"2867","explore ve",0,0,0,0
+"2868","explore ve trained",0,0,0,0
+"2869","ve trained",1,0,0.01,0
+"2870","ve trained data",1,0,0.01,0
+"2871","trained",1,0,0.01,0
+"2872","trained data",1,0,0.01,0
+"2873","trained data scientist",1,0,0.01,0
+"2874","data scientist chances",1,0,0.01,0
+"2875","scientist chances",1,0,0.01,0
+"2876","scientist chances coding",1,0,0.01,0
+"2877","chances",1,0,0.01,0
+"2878","chances coding",1,0,0.01,0
+"2879","chances coding skills",1,0,0.01,0
+"2880","coding skills",1,0,0.01,0
+"2881","coding skills excellent",1,0,0.01,0
+"2882","skills excellent",1,0,0.01,0
+"2883","skills excellent verbal",1,0,0.01,0
+"2884","excellent verbal",1,0,0.01,0
+"2885","excellent verbal written",1,0,0.01,0
+"2886","verbal",1,0,0.01,0
+"2887","verbal written",1,0,0.01,0
+"2888","verbal written communication",1,0,0.01,0
+"2889","written",2,0,0.02,0
+"2890","written communication",1,0,0.01,0
+"2891","written communication skills",1,0,0.01,0
+"2892","communication skills ability",1,0,0.01,0
+"2893","skills ability",1,0,0.01,0
+"2894","skills ability effectively",1,0,0.01,0
+"2895","ability effectively",1,0,0.01,0
+"2896","ability effectively advocate",1,0,0.01,0
+"2897","effectively",1,0,0.01,0
+"2898","effectively advocate",1,0,0.01,0
+"2899","effectively advocate technical",1,0,0.01,0
+"2900","advocate",1,0,0.01,0
+"2901","advocate technical",1,0,0.01,0
+"2902","advocate technical solutions",1,0,0.01,0
+"2903","technical solutions",1,0,0.01,0
+"2904","technical solutions research",1,0,0.01,0
+"2905","solutions",1,0,0.01,0
+"2906","solutions research",1,0,0.01,0
+"2907","solutions research scientists",1,0,0.01,0
+"2908","research scientists",1,0,0.01,0
+"2909","research scientists engineering",1,0,0.01,0
+"2910","scientists engineering",1,0,0.01,0
+"2911","scientists engineering people",1,0,0.01,0
+"2912","engineering people",1,0,0.01,0
+"2913","engineering people think",1,0,0.01,0
+"2914","people think",1,0,0.01,0
+"2915","people think data",1,0,0.01,0
+"2916","think data",1,0,0.01,0
+"2917","think data science",1,0,0.01,0
+"2918","data science imagine",1,0,0.01,0
+"2919","science imagine",1,0,0.01,0
+"2920","science imagine ultra",1,0,0.01,0
+"2921","imagine",1,0,0.01,0
+"2922","imagine ultra",1,0,0.01,0
+"2923","imagine ultra complicated",1,0,0.01,0
+"2924","ultra",1,0,0.01,0
+"2925","ultra complicated",1,0,0.01,0
+"2926","ultra complicated models",1,0,0.01,0
+"2927","complicated",1,0,0.01,0
+"2928","complicated models",1,0,0.01,0
+"2929","complicated models terabyte",1,0,0.01,0
+"2930","models terabyte",1,0,0.01,0
+"2931","models terabyte sized",1,0,0.01,0
+"2932","terabyte",1,0,0.01,0
+"2933","terabyte sized",1,0,0.01,0
+"2934","terabyte sized databases",1,0,0.01,0
+"2935","sized",1,0,0.01,0
+"2936","sized databases",1,0,0.01,0
+"2937","sized databases sophisticated",1,0,0.01,0
+"2938","databases",1,2,0.01,0.105263157894737
+"2939","databases sophisticated",1,0,0.01,0
+"2940","databases sophisticated multi",1,0,0.01,0
+"2941","sophisticated",1,0,0.01,0
+"2942","sophisticated multi",1,0,0.01,0
+"2943","sophisticated multi monitor",1,0,0.01,0
+"2944","multi",1,0,0.01,0
+"2945","multi monitor",1,0,0.01,0
+"2946","multi monitor dashboards",1,0,0.01,0
+"2947","monitor",1,0,0.01,0
+"2948","monitor dashboards",1,0,0.01,0
+"2949","monitor dashboards data",1,0,0.01,0
+"2950","dashboards",1,0,0.01,0
+"2951","dashboards data",1,0,0.01,0
+"2952","dashboards data scientist",1,0,0.01,0
+"2953","data scientist position",1,0,0.01,0
+"2954","scientist position",1,0,0.01,0
+"2955","scientist position data",1,0,0.01,0
+"2956","position",1,0,0.01,0
+"2957","position data",1,0,0.01,0
+"2958","position data science",1,0,0.01,0
+"2959","data science related",1,0,0.01,0
+"2960","science related",1,0,0.01,0
+"2961","science related skills",1,0,0.01,0
+"2962","related skills",1,0,0.01,0
+"2963","related skills expect",1,0,0.01,0
+"2964","skills expect",1,0,0.01,0
+"2965","skills expect write",1,0,0.01,0
+"2966","expect write",1,0,0.01,0
+"2967","expect write something",1,0,0.01,0
+"2968","write",1,0,0.01,0
+"2969","write something",1,0,0.01,0
+"2970","write something like",1,0,0.01,0
+"2971","something like",1,0,0.01,0
+"2972","something like major",1,0,0.01,0
+"2973","like major",1,0,0.01,0
+"2974","like major fresh",1,0,0.01,0
+"2975","major",1,0,0.01,0
+"2976","major fresh",1,0,0.01,0
+"2977","major fresh graduate",1,0,0.01,0
+"2978","fresh",1,0,0.01,0
+"2979","fresh graduate",1,0,0.01,0
+"2980","fresh graduate passion",1,0,0.01,0
+"2981","graduate",1,0,0.01,0
+"2982","graduate passion",1,0,0.01,0
+"2983","graduate passion data",1,0,0.01,0
+"2984","passion",1,0,0.01,0
+"2985","passion data",1,0,0.01,0
+"2986","passion data science",1,0,0.01,0
+"2987","data science become",1,0,0.01,0
+"2988","science become",1,0,0.01,0
+"2989","science become huge",1,0,0.01,0
+"2990","become huge",1,0,0.01,0
+"2991","become huge buzzword",1,0,0.01,0
+"2992","huge buzzword",1,0,0.01,0
+"2993","huge buzzword last",1,0,0.01,0
+"2994","buzzword",1,0,0.01,0
+"2995","buzzword last",1,0,0.01,0
+"2996","buzzword last years",1,0,0.01,0
+"2997","last",1,0,0.01,0
+"2998","last years",1,0,0.01,0
+"2999","last years however",1,0,0.01,0
+"3000","years however",1,0,0.01,0
+"3001","years however data",1,0,0.01,0
+"3002","however data",1,0,0.01,0
+"3003","however data scientist",1,0,0.01,0
+"3004","data scientist appreciate",1,0,0.01,0
+"3005","scientist appreciate",1,0,0.01,0
+"3006","scientist appreciate skills",1,0,0.01,0
+"3007","appreciate",1,0,0.01,0
+"3008","appreciate skills",1,0,0.01,0
+"3009","appreciate skills due",1,0,0.01,0
+"3010","skills due",1,0,0.01,0
+"3011","skills due time",1,0,0.01,0
+"3012","due",1,0,0.01,0
+"3013","due time",1,0,0.01,0
+"3014","due time often",1,0,0.01,0
+"3015","time often",1,0,0.01,0
+"3016","time often growth",1,0,0.01,0
+"3017","often growth",1,0,0.01,0
+"3018","often growth plenty",1,0,0.01,0
+"3019","growth",1,0,0.01,0
+"3020","growth plenty",1,0,0.01,0
+"3021","growth plenty well",1,0,0.01,0
+"3022","plenty",1,0,0.01,0
+"3023","plenty well",1,0,0.01,0
+"3024","plenty well qualified",1,0,0.01,0
+"3025","well",1,6,0.01,0.315789473684211
+"3026","well qualified",1,0,0.01,0
+"3027","well qualified data",1,0,0.01,0
+"3028","qualified",1,0,0.01,0
+"3029","qualified data",1,0,0.01,0
+"3030","qualified data scientists",1,0,0.01,0
+"3031","scientists job market",1,0,0.01,0
+"3032","job market however",1,0,0.01,0
+"3033","market however",1,0,0.01,0
+"3034","market however terms",1,0,0.01,0
+"3035","however terms",1,0,0.01,0
+"3036","however terms resume",1,0,0.01,0
+"3037","terms resume",1,0,0.01,0
+"3038","terms resume need",1,0,0.01,0
+"3039","resume",1,0,0.01,0
+"3040","resume need",1,0,0.01,0
+"3041","resume need articulate",1,0,0.01,0
+"3042","need articulate",1,0,0.01,0
+"3043","need articulate skills",1,0,0.01,0
+"3044","articulate",1,0,0.01,0
+"3045","articulate skills",1,0,0.01,0
+"3046","articulate skills example",1,0,0.01,0
+"3047","skills example",1,0,0.01,0
+"3048","skills example senior",1,0,0.01,0
+"3049","example",1,1,0.01,0.0526315789473684
+"3050","example senior",1,0,0.01,0
+"3051","example senior data",1,0,0.01,0
+"3052","senior data science",1,0,0.01,0
+"3053","data science role",1,0,0.01,0
+"3054","science role",1,0,0.01,0
+"3055","science role specializing",1,0,0.01,0
+"3056","role specializing",1,0,0.01,0
+"3057","role specializing niche",1,0,0.01,0
+"3058","specializing",1,0,0.01,0
+"3059","specializing niche",1,0,0.01,0
+"3060","specializing niche area",1,0,0.01,0
+"3061","niche",1,0,0.01,0
+"3062","niche area",1,0,0.01,0
+"3063","niche area likely",1,0,0.01,0
+"3064","area",1,2,0.01,0.105263157894737
+"3065","area likely",1,0,0.01,0
+"3066","area likely require",1,0,0.01,0
+"3067","likely require",1,0,0.01,0
+"3068","likely require greater",1,0,0.01,0
+"3069","require greater",1,0,0.01,0
+"3070","require greater skills",1,0,0.01,0
+"3071","greater",1,0,0.01,0
+"3072","greater skills",1,0,0.01,0
+"3073","greater skills qualifications",1,0,0.01,0
+"3074","skills qualifications",1,0,0.01,0
+"3075","skills qualifications entry",1,0,0.01,0
+"3076","qualifications",1,0,0.01,0
+"3077","qualifications entry",1,0,0.01,0
+"3078","qualifications entry level",1,0,0.01,0
+"3079","entry",1,0,0.01,0
+"3080","entry level",1,0,0.01,0
+"3081","entry level generalist",1,0,0.01,0
+"3082","level",1,0,0.01,0
+"3083","level generalist",1,0,0.01,0
+"3084","level generalist role",1,0,0.01,0
+"3085","generalist role",1,0,0.01,0
+"3086","generalist role early",1,0,0.01,0
+"3087","role early",1,0,0.01,0
+"3088","role early started",1,0,0.01,0
+"3089","early",1,0,0.01,0
+"3090","early started",1,0,0.01,0
+"3091","early started freelancing",1,0,0.01,0
+"3092","started",1,0,0.01,0
+"3093","started freelancing",1,0,0.01,0
+"3094","started freelancing work",1,0,0.01,0
+"3095","freelancing",1,0,0.01,0
+"3096","freelancing work",1,0,0.01,0
+"3097","freelancing work data",1,0,0.01,0
+"3098","work data",1,0,0.01,0
+"3099","work data related",1,0,0.01,0
+"3100","data related",1,0,0.01,0
+"3101","data related projects",1,0,0.01,0
+"3102","related projects",1,0,0.01,0
+"3103","related projects purposes",1,0,0.01,0
+"3104","projects purposes",1,0,0.01,0
+"3105","projects purposes strengthening",1,0,0.01,0
+"3106","purposes",1,0,0.01,0
+"3107","purposes strengthening",1,0,0.01,0
+"3108","purposes strengthening data",1,0,0.01,0
+"3109","strengthening",1,0,0.01,0
+"3110","strengthening data",1,0,0.01,0
+"3111","strengthening data science",1,0,0.01,0
+"3112","science skills none",1,0,0.01,0
+"3113","skills none",1,0,0.01,0
+"3114","skills none articles",1,0,0.01,0
+"3115","none",1,0,0.01,0
+"3116","none articles",1,0,0.01,0
+"3117","none articles need",1,0,0.01,0
+"3118","articles need",1,0,0.01,0
+"3119","articles need written",1,0,0.01,0
+"3120","need written",1,0,0.01,0
+"3121","need written data",1,0,0.01,0
+"3122","written data",1,0,0.01,0
+"3123","written data scientist",1,0,0.01,0
+"3124","data scientist just",1,0,0.01,0
+"3125","scientist just",1,0,0.01,0
+"3126","scientist just numerical",1,0,0.01,0
+"3127","just numerical",1,0,0.01,0
+"3128","just numerical skills",1,0,0.01,0
+"3129","numerical",1,1,0.01,0.0526315789473684
+"3130","numerical skills",1,0,0.01,0
+"3131","numerical skills career",1,0,0.01,0
+"3132","skills career",1,0,0.01,0
+"3133","skills career objective",1,0,0.01,0
+"3134","career objective",1,0,0.01,0
+"3135","career objective skill",1,0,0.01,0
+"3136","objective",1,0,0.01,0
+"3137","objective skill",1,0,0.01,0
+"3138","objective skill can",1,0,0.01,0
+"3139","skill can",1,0,0.01,0
+"3140","skill can make",1,0,0.01,0
+"3141","can make",1,0,0.01,0
+"3142","can make stand",1,0,0.01,0
+"3143","make",1,2,0.01,0.105263157894737
+"3144","make stand",1,0,0.01,0
+"3145","make stand crowd",1,0,0.01,0
+"3146","stand",1,0,0.01,0
+"3147","stand crowd",1,0,0.01,0
+"3148","stand crowd discover",1,0,0.01,0
+"3149","crowd",1,0,0.01,0
+"3150","crowd discover",1,0,0.01,0
+"3151","crowd discover access",1,0,0.01,0
+"3152","discover",1,0,0.01,0
+"3153","discover access",1,0,0.01,0
+"3154","discover access logs",1,0,0.01,0
+"3155","access",1,0,0.01,0
+"3156","access logs",1,0,0.01,0
+"3157","access logs etc",1,0,0.01,0
+"3158","logs",1,0,0.01,0
+"3159","logs etc",1,0,0.01,0
+"3160","logs etc tailored",1,0,0.01,0
+"3161","etc",1,3,0.01,0.157894736842105
+"3162","etc tailored",1,0,0.01,0
+"3163","etc tailored store",1,0,0.01,0
+"3164","tailored",1,0,0.01,0
+"3165","tailored store",1,0,0.01,0
+"3166","tailored store data",1,0,0.01,0
+"3167","store",1,0,0.01,0
+"3168","store data",1,0,0.01,0
+"3169","store data app",1,0,0.01,0
+"3170","data app",1,0,0.01,0
+"3171","data app transactions",1,0,0.01,0
+"3172","app",1,0,0.01,0
+"3173","app transactions",1,0,0.01,0
+"3174","app transactions directly",1,0,0.01,0
+"3175","transactions",1,0,0.01,0
+"3176","transactions directly",1,0,0.01,0
+"3177","transactions directly useful",1,0,0.01,0
+"3178","directly",1,0,0.01,0
+"3179","directly useful",1,0,0.01,0
+"3180","directly useful data",1,0,0.01,0
+"3181","useful data",1,0,0.01,0
+"3182","useful data science",1,0,0.01,0
+"3183","science data scientist",1,0,0.01,0
+"3184","data scientist usually",1,0,0.01,0
+"3185","scientist usually",1,0,0.01,0
+"3186","scientist usually needs",1,0,0.01,0
+"3187","usually",2,0,0.02,0
+"3188","usually needs",1,0,0.01,0
+"3189","usually needs analytical",1,0,0.01,0
+"3190","needs",1,0,0.01,0
+"3191","needs analytical",1,0,0.01,0
+"3192","needs analytical bases",1,0,0.01,0
+"3193","analytical",1,0,0.01,0
+"3194","analytical bases",1,0,0.01,0
+"3195","analytical bases work",1,0,0.01,0
+"3196","bases",1,0,0.01,0
+"3197","bases work",1,0,0.01,0
+"3198","bases work software",1,0,0.01,0
+"3199","work software",1,0,0.01,0
+"3200","work software engineering",1,0,0.01,0
+"3201","software engineering years",1,0,0.01,0
+"3202","engineering years",1,0,0.01,0
+"3203","engineering years ago",1,0,0.01,0
+"3204","years ago",1,0,0.01,0
+"3205","years ago looking",1,0,0.01,0
+"3206","ago",1,0,0.01,0
+"3207","ago looking",1,0,0.01,0
+"3208","ago looking job",1,0,0.01,0
+"3209","looking job",1,0,0.01,0
+"3210","looking job adverts",1,0,0.01,0
+"3211","job adverts",1,0,0.01,0
+"3212","job adverts data",1,0,0.01,0
+"3213","adverts",1,0,0.01,0
+"3214","adverts data",1,0,0.01,0
+"3215","adverts data scientists",1,0,0.01,0
+"3216","data scientists skill",1,0,0.01,0
+"3217","scientists skill",1,0,0.01,0
+"3218","scientists skill set",1,0,0.01,0
+"3219","skill set usually",1,0,0.01,0
+"3220","set usually",1,0,0.01,0
+"3221","set usually heavily",1,0,0.01,0
+"3222","usually heavily",1,0,0.01,0
+"3223","usually heavily focussed",1,0,0.01,0
+"3224","heavily focussed",1,0,0.01,0
+"3225","heavily focussed background",1,0,0.01,0
+"3226","focussed",1,0,0.01,0
+"3227","focussed background",1,0,0.01,0
+"3228","focussed background take",1,0,0.01,0
+"3229","background take",1,0,0.01,0
+"3230","background take want",1,0,0.01,0
+"3231","take want",1,0,0.01,0
+"3232","take want analysis",1,0,0.01,0
+"3233","want analysis",1,0,0.01,0
+"3234","want analysis s",0,0,0,0
+"3235","analysis s",0,0,0,0
+"3236","analysis s obvious",0,0,0,0
+"3237","s obvious",1,0,0.01,0
+"3238","s obvious insights",1,0,0.01,0
+"3239","obvious",1,0,0.01,0
+"3240","obvious insights",1,0,0.01,0
+"3241","obvious insights gathered",1,0,0.01,0
+"3242","insights",1,0,0.01,0
+"3243","insights gathered",1,0,0.01,0
+"3244","insights gathered webscraping",1,0,0.01,0
+"3245","gathered",1,0,0.01,0
+"3246","gathered webscraping",1,0,0.01,0
+"3247","gathered webscraping job",1,0,0.01,0
+"3248","webscraping job",1,0,0.01,0
+"3249","webscraping job postings",1,0,0.01,0
+"3250","job postings perfect",1,0,0.01,0
+"3251","postings perfect",1,0,0.01,0
+"3252","postings perfect correlation",1,0,0.01,0
+"3253","perfect",1,0,0.01,0
+"3254","perfect correlation",1,0,0.01,0
+"3255","perfect correlation data",1,0,0.01,0
+"3256","correlation",1,0,0.01,0
+"3257","correlation data",1,0,0.01,0
+"3258","correlation data science",1,0,0.01,0

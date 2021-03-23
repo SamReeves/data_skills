@@ -1,0 +1,95 @@
+---
+title: "Project 3"
+author: "Claire Meyer"
+date: "3/13/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r libraries, echo=FALSE}
+library(RCurl)
+library(httr)
+library(jsonlite)
+library(tidyverse)
+library(tokenizers)
+library(stopwords)
+```
+
+## Getting the data
+Run function to collect results and construct query strings, build a DF of 100 results.
+
+```{r dataset}
+# Pull first 10 results
+base_url = "https://www.googleapis.com/customsearch/v1?key=AIzaSyDGGlvHG0qLpOjLF5_k-ojZtPKjyFOSUYM&cx=1f1bbcd0558947d90&q='data+scientist+skills'"
+base_results <- fromJSON(txt=base_url)
+base_df <- base_results$items[,-11]
+
+# Create a query base to iterate on
+query_base <- "https://www.googleapis.com/customsearch/v1?key=AIzaSyDGGlvHG0qLpOjLF5_k-ojZtPKjyFOSUYM&cx=1f1bbcd0558947d90&exactTerms='data+science'&q='data+scientist+skills'&start=" 
+
+# Created a search results function that inputs query string 
+# and outputs results that can be bound to base_df
+get_search_results <- function(q_string) {
+  results <- fromJSON(txt=q_string)
+  items_df <- results$items[,-11]
+  return(items_df)
+}
+
+# Run a for loop to generate the needed queries for the next 90 results.
+x <- c(1:9)
+for (i in x) {
+  query <- paste(query_base,(i*10+1),sep="")
+  items_df <- get_search_results(query)
+  base_df <- rbind(base_df,items_df)
+}
+
+# in case of rate limiting, write to CSV
+write.csv(base_df,'search_results.csv',row.names = TRUE)
+```
+
+## Create corpus
+
+Combine result snippets into a corpus, and count word frequency.
+
+```{r corpus}
+corpus_skills_lower <- tolower(paste(base_df$snippet, collapse = ""))
+corpus_skills <- paste(base_df$snippet, collapse = "")
+
+# Tokenize snippets column; definitely need to clean this up, e.g. maybe change n to something smaller?
+# https://cran.r-project.org/web/packages/tokenizers/vignettes/introduction-to-tokenizers.html
+# Fetch stopword list
+stopwordlist <- stopwords::stopwords("en")
+# Remove bare numbers
+stopwordlist <- append(stopwordlist, sapply(c(1:100), "as.character"))
+# Remove months and years
+stopwordlist <- append(stopwordlist, c("2020", "2021", "2019", "2018", tolower(month.abb[c(1:12)])))
+# Tokenize
+tokens <- tokenize_ngrams(corpus_skills, n = 5, n_min = 1, stopwords = stopwordlist)[[1]]
+tokens <- as.list(tokens)
+
+count_table <- data.frame(c(1:length(tokens)),"")
+colnames(count_table) <- c("token","count")
+for (i in c(1:length(tokens))) {
+  count_table$token[i] <- as.character(tokens[i])
+  count_table$count[i] <- str_count(corpus_skills_lower,pattern=as.character(tokens[i]))
+}
+
+# add a % of snippets field
+count_table <- count_table %>% 
+  mutate(pct_snippets = as.numeric(count)/100)
+
+count_table <- unique(count_table)
+
+# becuase 'r' is counted any time it's lowercase, count uppercase for R programming
+r_count <- str_count(corpus_skills,pattern="R")
+count_table <- count_table[order(as.numeric(count_table$count),decreasing = TRUE),]
+count_table[2,2] <- r_count
+count_table <- count_table[order(as.numeric(count_table$count),decreasing = TRUE),]
+
+# write to CSV
+write.csv(count_table,'counts.csv',row.names = TRUE)
+```
+
