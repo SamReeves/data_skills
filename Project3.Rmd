@@ -86,7 +86,7 @@ stopwordlist <- append(stopwordlist, sapply(c(1:100), "as.character"))
 stopwordlist <- append(stopwordlist, c("2020", "2021", "2019", "2018", "2017", tolower(month.abb[c(1:12)])))
 
 # Remove other miscellaneous words
-stopwordlist <- append(stopwordlist, c("15,000", "11000"))
+stopwordlist <- append(stopwordlist, c("15,000", "11000", "also", "ago"))
 
 ```
 
@@ -171,7 +171,7 @@ if (file.exists("cuny.csv")) {
 
 ## CUNY corpus
 
-Combine result snippets into a corpus.
+Combine course text into a corpus.
 
 ```{r cuny_corpus}
 

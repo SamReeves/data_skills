@@ -420,13 +420,13 @@
 "419","postings required research",1,0,0.01,0
 "420","required",6,2,0.06,0.105263157894737
 "421","required research",1,0,0.01,0
-"422","required research also",1,0,0.01,0
+"422","required research also",0,0,0,0
 "423","research",2,3,0.02,0.157894736842105
-"424","research also",1,0,0.01,0
-"425","research also considered",1,0,0.01,0
-"426","also",7,3,0.07,0.157894736842105
-"427","also considered",1,0,0.01,0
-"428","also considered vital",1,0,0.01,0
+"424","research also",0,0,0,0
+"425","research also considered",0,0,0,0
+"426","also",0,0,0,0
+"427","also considered",0,0,0,0
+"428","also considered vital",0,0,0,0
 "429","considered",1,0,0.01,0
 "430","considered vital",1,0,0.01,0
 "431","considered vital skill",1,0,0.01,0
@@ -457,12 +457,12 @@
 "456","s use people",1,0,0.01,0
 "457","use",3,12,0.03,0.631578947368421
 "458","use people",1,0,0.01,0
-"459","use people also",1,0,0.01,0
+"459","use people also",0,0,0,0
 "460","people",4,0,0.04,0
-"461","people also",1,0,0.01,0
-"462","people also using",1,0,0.01,0
-"463","also using",1,0,0.01,0
-"464","also using r",1,0,0.01,0
+"461","people also",0,0,0,0
+"462","people also using",0,0,0,0
+"463","also using",0,0,0,0
+"464","also using r",0,0,0,0
 "465","using",1,5,0.01,0.263157894736842
 "466","using r",1,1,0.01,0.0526315789473684
 "467","using r education",1,0,0.01,0
@@ -553,12 +553,12 @@
 "552","engineering article",1,0,0.01,0
 "553","engineering article follow",1,0,0.01,0
 "554","article follow",1,0,0.01,0
-"555","article follow also",1,0,0.01,0
+"555","article follow also",0,0,0,0
 "556","follow",1,0,0.01,0
-"557","follow also",1,0,0.01,0
-"558","follow also data",1,0,0.01,0
-"559","also data",1,0,0.01,0
-"560","also data scientists",1,0,0.01,0
+"557","follow also",0,0,0,0
+"558","follow also data",0,0,0,0
+"559","also data",0,0,0,0
+"560","also data scientists",0,0,0,0
 "561","data scientists must",1,0,0.01,0
 "562","scientists must",1,0,0.01,0
 "563","scientists must good",1,0,0.01,0
@@ -592,11 +592,11 @@
 "591","code data scientist",1,0,0.01,0
 "592","data scientist must",2,0,0.02,0
 "593","scientist must",2,0,0.02,0
-"594","scientist must also",1,0,0.01,0
-"595","must also",1,0,0.01,0
-"596","must also strong",1,0,0.01,0
-"597","also strong",1,0,0.01,0
-"598","also strong knowledge",1,0,0.01,0
+"594","scientist must also",0,0,0,0
+"595","must also",0,0,0,0
+"596","must also strong",0,0,0,0
+"597","also strong",0,0,0,0
+"598","also strong knowledge",0,0,0,0
 "599","strong",3,0,0.03,0
 "600","strong knowledge",1,0,0.01,0
 "601","strong knowledge sql",1,0,0.01,0
@@ -743,12 +743,12 @@
 "742","like payscale cleverism",1,0,0.01,0
 "743","payscale",1,0,0.01,0
 "744","payscale cleverism",1,0,0.01,0
-"745","payscale cleverism also",1,0,0.01,0
+"745","payscale cleverism also",0,0,0,0
 "746","cleverism",2,0,0.02,0
-"747","cleverism also",1,0,0.01,0
-"748","cleverism also notes",1,0,0.01,0
-"749","also notes",1,0,0.01,0
-"750","also notes essential",1,0,0.01,0
+"747","cleverism also",0,0,0,0
+"748","cleverism also notes",0,0,0,0
+"749","also notes",0,0,0,0
+"750","also notes essential",0,0,0,0
 "751","notes",1,0,0.01,0
 "752","notes essential",1,0,0.01,0
 "753","notes essential skills",1,0,0.01,0
@@ -1122,12 +1122,12 @@
 "1121","understanding data science",1,0,0.01,0
 "1122","data science works",1,0,0.01,0
 "1123","science works",1,0,0.01,0
-"1124","science works also",1,0,0.01,0
+"1124","science works also",0,0,0,0
 "1125","works",1,0,0.01,0
-"1126","works also",1,0,0.01,0
-"1127","works also outline",1,0,0.01,0
-"1128","also outline",1,0,0.01,0
-"1129","also outline skills",1,0,0.01,0
+"1126","works also",0,0,0,0
+"1127","works also outline",0,0,0,0
+"1128","also outline",0,0,0,0
+"1129","also outline skills",0,0,0,0
 "1130","outline",1,0,0.01,0
 "1131","outline skills",1,0,0.01,0
 "1132","outline skills need",1,0,0.01,0
@@ -2480,11 +2480,11 @@
 "2479","courses advanced data",1,0,0.01,0
 "2480","advanced data",1,0,0.01,0
 "2481","advanced data scientists",1,0,0.01,0
-"2482","data scientists also",1,0,0.01,0
-"2483","scientists also",1,0,0.01,0
-"2484","scientists also lack",1,0,0.01,0
-"2485","also lack",1,0,0.01,0
-"2486","also lack discussing",1,0,0.01,0
+"2482","data scientists also",0,0,0,0
+"2483","scientists also",0,0,0,0
+"2484","scientists also lack",0,0,0,0
+"2485","also lack",0,0,0,0
+"2486","also lack discussing",0,0,0,0
 "2487","lack",1,0,0.01,0
 "2488","lack discussing",1,0,0.01,0
 "2489","lack discussing detail",1,0,0.01,0
@@ -3201,12 +3201,12 @@
 "3200","work software engineering",1,0,0.01,0
 "3201","software engineering years",1,0,0.01,0
 "3202","engineering years",1,0,0.01,0
-"3203","engineering years ago",1,0,0.01,0
-"3204","years ago",1,0,0.01,0
-"3205","years ago looking",1,0,0.01,0
-"3206","ago",1,0,0.01,0
-"3207","ago looking",1,0,0.01,0
-"3208","ago looking job",1,0,0.01,0
+"3203","engineering years ago",0,0,0,0
+"3204","years ago",0,0,0,0
+"3205","years ago looking",0,0,0,0
+"3206","ago",0,0,0,0
+"3207","ago looking",0,0,0,0
+"3208","ago looking job",0,0,0,0
 "3209","looking job",1,0,0.01,0
 "3210","looking job adverts",1,0,0.01,0
 "3211","job adverts",1,0,0.01,0
