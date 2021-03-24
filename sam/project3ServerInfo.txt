@@ -1,0 +1,39 @@
+
+  SERVER  --------------------------------------------+
+www.digitalocean.com                                  |
+134.122.18.100   (hostname: project3)                 |
+------------------------------------------------------+
+
+  SSH  -----------------------------------------------+
+User         Password                                 |
+=========================================             |
+root         <ask if you really need it>              |
+normie       generic                                  |
+------------------------------------------------------+
+
+  MySQL  ---------------------------------------------+
+root login OKAY                                       |
+anonymous login OKAY                                  |
+test database is active                               |
+                                                      |
+User          Password                                |
+=========================================             |
+root          <ask if you really need it>             |
+normie        doge                                    |
+------------------------------------------------------+
+
+
+To create a user:
+  CREATE USER 'user'@'localhost' IDENTIFIED BY 'doge';
+
+To set privileges:
+  GRANT CREATE, ALTER, DROP, INSERT, UPDATE, DELETE, SELECT, REFERENCES,
+  RELOAD on *.* TO 'user'@'localhost' WITH GRANT OPTION;
+
+Then free up memory on the server by entering:
+  FLUSH PRIVILEGES;
+
+Login from SSH session:
+  mysql -u user -p
+ 
+
