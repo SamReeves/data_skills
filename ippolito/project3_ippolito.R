@@ -42,3 +42,10 @@ dfcuny <- mutate(dfcuny, course_text = tmpb)
 
 # Tokenize
 tokenize_ngrams(dfcuny$course_text, n = 5, n_min = 1, stopwords = stopwordlist)
+
+drv = dbDriver("MySQL")
+conn = dbConnect(drv,host = "134.122.18.100", port = 3306, user = "normie", password = "doge", dbname = "cars")
+query <- "show tables;"
+dbListTables(conn)
+full_send <- dbSendQuery(conn, query)
+dbDisconnect(conn)
