@@ -33,36 +33,46 @@ This document walks through scraping website search results for information on t
 Below we run a function to hit the Custom Search API configured to search monster.com, indeed.com, and towardsdatascience.com. These results are collected, tidied and turned into a data frame of 100 results. 100 is the maximum number of results in the free version of the API. 
 
 ```{r dataset}
-# We can start with the first 10 results
-  base_url = "https://www.googleapis.com/customsearch/v1?key=AIzaSyDGGlvHG0qLpOjLF5_k-ojZtPKjyFOSUYM&cx=1f1bbcd0558947d90&q='data+scientist+skills'"
-  base_results <- fromJSON(txt=base_url)
+
+if (file.exists("search_results.csv")) {
   
-# Create data frame, discarding the 11th column, which we don't need and is problematic
-# because it's a nested list.
-base_df <- base_results$items[, -11]
+  base_df = read.csv("search_results.csv")
+
+} else {
+
+  # We can start with the first 10 results
+    base_url = "https://www.googleapis.com/customsearch/v1?key=AIzaSyDGGlvHG0qLpOjLF5_k-ojZtPKjyFOSUYM&cx=1f1bbcd0558947d90&q='data+scientist+skills'"
+    base_results <- fromJSON(txt=base_url)
+    
+  # Create data frame, discarding the 11th column, which we don't need and is problematic
+  # because it's a nested list.
+  base_df <- base_results$items[, -11]
+    
+  # Create a query base to iterate on
+  query_base <- "https://www.googleapis.com/customsearch/v1?key=AIzaSyDGGlvHG0qLpOjLF5_k-ojZtPKjyFOSUYM&cx=1f1bbcd0558947d90&exactTerms='data+science'&q='data+scientist+skills'&start=" 
+    
+  # Created a search results function that inputs query string 
+  # and outputs results that can be bound to base_df
+  get_search_results <- function(q_string) {
+      results <- fromJSON(txt = q_string)
+      items_df <- results$items[, -11]
+      return(items_df)
+  }
+    
+  # Run a for loop to generate the needed queries for the next 90 results. 
+  # We append a start index to the query base to grab the next set of results.
+  x <- c(1:9)
+  for (i in x) {
+    query <- paste(query_base, (i * 10 + 1), sep="")
+    items_df <- get_search_results(query)
+    base_df <- rbind(base_df, items_df)
+  }
   
-# Create a query base to iterate on
-query_base <- "https://www.googleapis.com/customsearch/v1?key=AIzaSyDGGlvHG0qLpOjLF5_k-ojZtPKjyFOSUYM&cx=1f1bbcd0558947d90&exactTerms='data+science'&q='data+scientist+skills'&start=" 
-  
-# Created a search results function that inputs query string 
-# and outputs results that can be bound to base_df
-get_search_results <- function(q_string) {
-    results <- fromJSON(txt = q_string)
-    items_df <- results$items[, -11]
-    return(items_df)
-}
-  
-# Run a for loop to generate the needed queries for the next 90 results. 
-# We append a start index to the query base to grab the next set of results.
-x <- c(1:9)
-for (i in x) {
-  query <- paste(query_base, (i * 10 + 1), sep="")
-  items_df <- get_search_results(query)
-  base_df <- rbind(base_df, items_df)
+  # In case of rate limiting, write to CSV
+  write.csv(base_df,'search_results.csv',row.names = TRUE)
+
 }
 
-# In case of rate limiting, write to CSV
-write.csv(base_df,'search_results.csv',row.names = TRUE)
 ```
 
 ## Create a stopword list
@@ -108,45 +118,53 @@ skills_tokens <- as.list(skills_tokens)
 Then we can scrape the CUNY Master's in Data Science course catalog, identifying course descriptions.
 
 ```{r cuny_scrape}
-# Read CUNY master's in data science course catalog
-cunyUrl <- "http://catalog.sps.cuny.edu/preview_program.php?catoid=2&poid=607"
-catalog <- getURL(cunyUrl)
 
-# Each course will show up like this in the html source:
-# <a href="#" aria-expanded="false" onClick="showCourse('2', '979',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~1598~;}'); return false;">DATA 602 - Advanced Programming Techniques (3 Credits) </a>
-# Use regex to parse
-
-matches <- str_match_all(catalog, "showCourse\\('(\\d+)', *'(\\d+)',this, '(.+?)'.+?>(DATA \\d{3}) - (.+?) \\(?(\\d+.*?) Credits\\)?.+?<\\/a>")
+if (file.exists("cuny.csv")) {
   
-# Build URL to fetch each course
-# We need to end up with this format:
-# http://catalog.sps.cuny.edu/ajax/preview_course.php?catoid=2&coid=979&link_text=&display_options=a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~1598~;}&show
-courseUrls <- str_c("http://catalog.sps.cuny.edu/ajax/preview_course.php?catoid=",
-        matches[[1]][,2], "&coid=", matches[[1]][,3], "&link_text=&display_options=", matches[[1]][,4], "&show")
+  dfcuny <- read.csv("cuny.csv")
+
+} else {
+
+  # Read CUNY master's in data science course catalog
+  cunyUrl <- "http://catalog.sps.cuny.edu/preview_program.php?catoid=2&poid=607"
+  catalog <- getURL(cunyUrl)
   
-# Build dataframe
-dfcuny <- data.frame(courseno = matches[[1]][,5], descr = matches[[1]][,6], credits = matches[[1]][,7], url = courseUrls)
-
-# Fetch course descriptions using courseUrls
-results <- sapply(dfcuny$url, function(x) try(getURL(x)))
-
-# Extract first element from results
-tmpa <- sapply(results, "[", 1)
-
-# Parse results; this is the part we're interested in:
-# DATA 607</a><span style="display: none !important">&#160;</span></em><br>In this course students will learn...<br><br>
-coursematches <- str_match_all(tmpa, regex('<\\/em>.*<br>(.+?)<br><br>', dotall = TRUE))
-
-# Extract second element from results
-tmpb <- sapply(coursematches, "[", 2)
-
-# Add the course text to the data frame
-dfcuny <- mutate(dfcuny, course_text = tmpb)
-
-# Write to CSV
-write.csv(dfcuny,'cuny.csv',row.names = TRUE)
+  # Each course will show up like this in the html source:
+  # <a href="#" aria-expanded="false" onClick="showCourse('2', '979',this, 'a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~1598~;}'); return false;">DATA 602 - Advanced Programming Techniques (3 Credits) </a>
+  # Use regex to parse
+  
+  matches <- str_match_all(catalog, "showCourse\\('(\\d+)', *'(\\d+)',this, '(.+?)'.+?>(DATA \\d{3}) - (.+?) \\(?(\\d+.*?) Credits\\)?.+?<\\/a>")
+    
+  # Build URL to fetch each course
+  # We need to end up with this format:
+  # http://catalog.sps.cuny.edu/ajax/preview_course.php?catoid=2&coid=979&link_text=&display_options=a:2:{s:8:~location~;s:7:~program~;s:4:~core~;s:4:~1598~;}&show
+  courseUrls <- str_c("http://catalog.sps.cuny.edu/ajax/preview_course.php?catoid=",
+          matches[[1]][,2], "&coid=", matches[[1]][,3], "&link_text=&display_options=", matches[[1]][,4], "&show")
+    
+  # Build dataframe
+  dfcuny <- data.frame(courseno = matches[[1]][,5], descr = matches[[1]][,6], credits = matches[[1]][,7], url = courseUrls)
+  
+  # Fetch course descriptions using courseUrls
+  results <- sapply(dfcuny$url, function(x) try(getURL(x)))
+  
+  # Extract first element from results
+  tmpa <- sapply(results, "[", 1)
+  
+  # Parse results; this is the part we're interested in:
+  # DATA 607</a><span style="display: none !important">&#160;</span></em><br>In this course students will learn...<br><br>
+  coursematches <- str_match_all(tmpa, regex('<\\/em>.*<br>(.+?)<br><br>', dotall = TRUE))
+  
+  # Extract second element from results
+  tmpb <- sapply(coursematches, "[", 2)
+  
+  # Add the course text to the data frame
+  dfcuny <- mutate(dfcuny, course_text = tmpb)
+  
+  # Write to CSV
+  write.csv(dfcuny,'cuny.csv',row.names = TRUE)
+}
 ```
-
+  
 ## CUNY corpus
 
 With the same pattern as search results, we combine course text into a corpus, remove the same stop words, and tokenize in the same manner.
@@ -207,6 +225,7 @@ count_table <- count_table %>%
 
 # Write to CSV
 write.csv(count_table, 'counts.csv', row.names = TRUE)
+
 ```
 
 
@@ -214,21 +233,9 @@ write.csv(count_table, 'counts.csv', row.names = TRUE)
 
 With the data collected, we can push this data to the MySQL db we've developed to host our results tables. 
 
-First we setup the db.
+First we prep the final dataframes that will make up our tables.
 
-```{r setup}
-drv = dbDriver("MySQL")
-con = dbConnect(drv,
-                host = "134.122.18.100",
-                port = 3306,
-                user = "normie",
-                password = "doge",
-                dbname = "cars")
-```
-
-Then we prep the final dataframes that will make up our tables.
-
-```{r prep-dfs}
+```{r prep_dfs}
 df_search <- base_df %>%
   select(link,snippet)
 
@@ -242,11 +249,21 @@ search_count <- count_table %>%
   select(token,skills_count)
 ```
 
-We set up tables for each of our results tables.
+Then we setup the db.
 
-```{r}
+```{r init_db}
 
-# Create mysql tables; use tryCatch block in case the tables are already created
+# Connect to db
+drv = dbDriver("MySQL")
+con = dbConnect(drv,
+                host = "134.122.18.100",
+                port = 3306,
+                user = "normie",
+                password = "doge",
+                dbname = "skills")
+
+# Set up tables for each of our results tables.
+# Use tryCatch block in case the tables are already created
 
 # cuny results table
 cuny_df_query <- "CREATE TABLE df_cuny(
@@ -307,14 +324,11 @@ tryCatch(
   error = function (e) {print(paste("Error: ", e))}
 )
 
+# List the tables
 dbListTables(con)
-```
 
-Now we can populate the tables with the configured data frames. 
-
-```{r}
-
-# Add data frames to tables, but first see if the tables have already been
+# Now we can populate the tables with the configured data frames. 
+# First see if the tables have already been
 # populated. If not, set append to TRUE and overwrite to FALSE. If so,
 # set append to FALSE and overwrite to TRUE.
 
@@ -373,17 +387,10 @@ dbWriteTable(con,
              name = "search_count",
              overwrite = !dbappend,
              append = dbappend)
-```
 
-From there we can close our connection.
-
-```{r}
-#dbRemoveTable(con, "df_cuny")
-#dbRemoveTable(con, "df_search")
-#dbRemoveTable(con, "df_compare")
-#dbRemoveTable(con, "cuny_count")
-#dbRemoveTable(con, "search_count")
+# From here we can close our connection.
 dbDisconnect(con)
+
 ```
 
 ## Analysis
