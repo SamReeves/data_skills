@@ -34,6 +34,10 @@ Below we run a function to hit the Custom Search API configured to search monste
 
 ```{r dataset}
 
+# Download the file so that we don't have to scrape the website every time we want to run this chunk.
+download.file("https://raw.githubusercontent.com/TheWerefriend/Data607Project3/main/search_results.csv",
+              destfile="search_results.csv", method="libcurl")
+
 if (file.exists("search_results.csv")) {
   
   base_df = read.csv("search_results.csv")
@@ -118,6 +122,10 @@ skills_tokens <- as.list(skills_tokens)
 Then we can scrape the CUNY Master's in Data Science course catalog, identifying course descriptions.
 
 ```{r cuny_scrape}
+
+# Download the file so that we don't have to scrape the website every time we want to run this chunk.
+download.file("https://raw.githubusercontent.com/TheWerefriend/Data607Project3/main/cuny.csv",
+              destfile="cuny.csv", method="libcurl")
 
 if (file.exists("cuny.csv")) {
   
