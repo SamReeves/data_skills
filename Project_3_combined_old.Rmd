@@ -23,10 +23,6 @@ library(tokenizers)
 library(stopwords)
 library(kableExtra)
 library(RMySQL)
-library(wordcloud)
-library(RColorBrewer)
-library(tm)
-library(ggplot2)
 ```
 # Most Valuable Data Science Skills
 
@@ -406,76 +402,5 @@ dbDisconnect(con)
 ```
 
 ## Analysis
-
-Our model produced a large amount of data-science-relevant words and terms from job postings and from that we are able to discern what are some of the most important skills in the market for data scientists. Our first chart compares the text from the skills corpus to the text from the CUNY MSDS course descriptions, counting the matches. 
-
-Most important finding: DATA 607 finishes in a strong third place!
-
-
-```{r warning=FALSE}
-# Add column to dfcuny counting up the instances of skills tokens
-dfcuny$tally_tokens <- str_count(dfcuny$course_text, paste0(count_table$token,
-                                                                     collapse = '|'))
-# remove junk text
-dfcuny$descr <- str_replace_all(dfcuny$descr, "&.*;", "")
-# Plot the results
-ggplot2::ggplot(dfcuny, aes(reorder(descr, tally_tokens, sum), tally_tokens)) +
-  geom_col() +
-  ylab("DS Skills in Course Description") +
-  xlab("") +
-  ggtitle("Courses with the most Skills Tokens") +
-  coord_flip()
-
-```
-## Wordclouds
-
-Next we construct some word clouds to get a sense of which terms are most prominent in both corpuses. The skills corpus at first returns a word cloud heavily favoring variations on our search terms: "data science skills". 
-
-```{r skills-wordcloud, warning=FALSE}
-# configure corpus
-corpus_cloud_sk <- Corpus(VectorSource(skills_corpus_lower))
-
-# create term document matrix and df for skills wordcloud
-dtm1 <- TermDocumentMatrix(corpus_cloud_sk) 
-matrix1 <- as.matrix(dtm1) 
-words1 <- sort(rowSums(matrix1),decreasing=TRUE) 
-df_cloud_sk <- data.frame(word = names(words1),freq=words) 
-
-# generate wordcloud for skills
-set.seed(1234) # for reproducibility 
-wordcloud(words = df_cloud_sk$word, freq = df_cloud_sk$freq, min.freq = 1,
-          max.words =200, random.order=FALSE, rot.per=0.35,
-          colors=brewer.pal(8, "Dark2"))
-```
-We remove the first few rows of the words closely matching our search terms to get a more informative word cloud highlighting such skills as: Python, programming, SQL, machine learning, and also some softer skills such as communication.
-
-```{r warning=FALSE}
-
-df_cloud_sk2 <- df_cloud_sk[7:nrow(df_cloud_sk),]
-
-# generate wordcloud for skills
-set.seed(1234) # for reproducibility 
-wordcloud(words = df_cloud_sk2$word, freq = df_cloud_sk2$freq, min.freq = 1,           
-          max.words=200, random.order=FALSE, rot.per=0.35, scale = c(2.5, 0.25),            
-          colors=brewer.pal(8, "Dark2"))
-```
-
-The CUNY wordcloud reveals a slightly more even distribution of words from the initial text.  
-
-```{r cuny-wordcloud, message=FALSE, warning=FALSE}
-# configure corpus
-corpus_cloud_cuny <- Corpus(VectorSource(cuny_corpus_lower))
-
-# create term document matrix and df for cuny wordcloud
-dtm2 <- TermDocumentMatrix(corpus_cloud_cuny) 
-matrix2 <- as.matrix(dtm2) 
-words2 <- sort(rowSums(matrix2),decreasing=TRUE) 
-df_cloud_cuny <- data.frame(word = names(words2),freq=words2)
-
-# generate wordcloud for cuny
-set.seed(1234) # for reproducibility 
-wordcloud(words = df_cloud_cuny$word, freq = df_cloud_cuny$freq, min.freq = 1,
-          max.words=200, random.order=FALSE, rot.per=0.35,
-          colors=brewer.pal(8, "Dark2"))
-```
+Analysis is completed in Google sheets and represented in our final presentation document.
 
