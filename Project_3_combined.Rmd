@@ -439,7 +439,7 @@ corpus_cloud_sk <- Corpus(VectorSource(skills_corpus_lower))
 dtm1 <- TermDocumentMatrix(corpus_cloud_sk) 
 matrix1 <- as.matrix(dtm1) 
 words1 <- sort(rowSums(matrix1),decreasing=TRUE) 
-df_cloud_sk <- data.frame(word = names(words1),freq=words) 
+df_cloud_sk <- data.frame(word = names(words1),freq=words1) 
 
 # generate wordcloud for skills
 set.seed(1234) # for reproducibility 
