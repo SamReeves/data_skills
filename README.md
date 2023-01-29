@@ -1,2 +1,1 @@
-# Data607Project3
-Let's work together with JSON data!  Forwards in all directions!
+Findind out about the most useful skills for data science... by scraping the web.
